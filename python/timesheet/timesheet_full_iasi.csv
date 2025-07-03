@@ -1,0 +1,486 @@
+emp_id,emp_name,work_date,project_code,status,hours_worked
+E101114,"Tumurug, Simona Daniela",2025-06-23,PRJ001,work,8
+E101114,"Tumurug, Simona Daniela",2025-06-24,PRJ001,work,8
+E101114,"Tumurug, Simona Daniela",2025-06-25,PRJ001,work,8
+E101114,"Tumurug, Simona Daniela",2025-06-26,PRJ001,work,8
+E101114,"Tumurug, Simona Daniela",2025-06-27,PRJ001,work,8
+E104992,"Mihalache(Cojocaru), Andreea",2025-06-23,PRJ001,work,8
+E104992,"Mihalache(Cojocaru), Andreea",2025-06-24,PRJ001,work,8
+E104992,"Mihalache(Cojocaru), Andreea",2025-06-25,PRJ001,work,8
+E104992,"Mihalache(Cojocaru), Andreea",2025-06-26,PRJ001,work,8
+E104992,"Mihalache(Cojocaru), Andreea",2025-06-27,PRJ001,work,8
+E111095,"Bulgariu, Silviu",2025-06-23,PRJ001,absence,0
+E111095,"Bulgariu, Silviu",2025-06-24,PRJ001,absence,0
+E111095,"Bulgariu, Silviu",2025-06-25,PRJ001,absence,0
+E111095,"Bulgariu, Silviu",2025-06-26,PRJ001,work,20
+E111095,"Bulgariu, Silviu",2025-06-27,PRJ001,work,20
+E111126,"Puiu, Bogdan",2025-06-23,PRJ001,work,8
+E111126,"Puiu, Bogdan",2025-06-24,PRJ001,work,8
+E111126,"Puiu, Bogdan",2025-06-25,PRJ001,work,8
+E111126,"Puiu, Bogdan",2025-06-26,PRJ001,work,8
+E111126,"Puiu, Bogdan",2025-06-27,PRJ001,work,8
+E118677,"Bereanu, Constantin Laurentiu",2025-06-23,PRJ001,work,8
+E118677,"Bereanu, Constantin Laurentiu",2025-06-24,PRJ001,work,8
+E118677,"Bereanu, Constantin Laurentiu",2025-06-25,PRJ001,work,8
+E118677,"Bereanu, Constantin Laurentiu",2025-06-26,PRJ001,work,8
+E118677,"Bereanu, Constantin Laurentiu",2025-06-27,PRJ001,work,8
+E120556,"Trofin(Izmana), Iuliana",2025-06-23,PRJ001,absence,0
+E120556,"Trofin(Izmana), Iuliana",2025-06-24,PRJ001,absence,0
+E120556,"Trofin(Izmana), Iuliana",2025-06-25,PRJ001,absence,0
+E120556,"Trofin(Izmana), Iuliana",2025-06-26,PRJ001,work,20
+E120556,"Trofin(Izmana), Iuliana",2025-06-27,PRJ001,work,20
+E121477,"Palasanu, Vlad",2025-06-23,PRJ001,work,8
+E121477,"Palasanu, Vlad",2025-06-24,PRJ001,work,8
+E121477,"Palasanu, Vlad",2025-06-25,PRJ001,work,8
+E121477,"Palasanu, Vlad",2025-06-26,PRJ001,work,8
+E121477,"Palasanu, Vlad",2025-06-27,PRJ001,work,8
+E123577,"Apastinei, Mariana",2025-06-23,PRJ001,work,8
+E123577,"Apastinei, Mariana",2025-06-24,PRJ001,work,8
+E123577,"Apastinei, Mariana",2025-06-25,PRJ001,work,8
+E123577,"Apastinei, Mariana",2025-06-26,PRJ001,work,8
+E123577,"Apastinei, Mariana",2025-06-27,PRJ001,work,8
+E129749,"Voinea(Cotan), Andreea",2025-06-23,PRJ001,work,8
+E129749,"Voinea(Cotan), Andreea",2025-06-24,PRJ001,work,8
+E129749,"Voinea(Cotan), Andreea",2025-06-25,PRJ001,work,8
+E129749,"Voinea(Cotan), Andreea",2025-06-26,PRJ001,work,8
+E129749,"Voinea(Cotan), Andreea",2025-06-27,PRJ001,work,8
+E130927-2,"Moga, Constantin Bogdan",2025-06-23,PRJ001,work,8
+E130927-2,"Moga, Constantin Bogdan",2025-06-24,PRJ001,work,8
+E130927-2,"Moga, Constantin Bogdan",2025-06-25,PRJ001,work,8
+E130927-2,"Moga, Constantin Bogdan",2025-06-26,PRJ001,work,8
+E130927-2,"Moga, Constantin Bogdan",2025-06-27,PRJ001,work,8
+E133918,"Dabija, Oana",2025-06-23,PRJ001,work,8
+E133918,"Dabija, Oana",2025-06-24,PRJ001,work,8
+E133918,"Dabija, Oana",2025-06-25,PRJ001,work,8
+E133918,"Dabija, Oana",2025-06-26,PRJ001,work,8
+E133918,"Dabija, Oana",2025-06-27,PRJ001,work,8
+E147608,"Cojocari, Cornelia",2025-06-23,PRJ001,work,8
+E147608,"Cojocari, Cornelia",2025-06-24,PRJ001,work,8
+E147608,"Cojocari, Cornelia",2025-06-25,PRJ001,work,8
+E147608,"Cojocari, Cornelia",2025-06-26,PRJ001,work,8
+E147608,"Cojocari, Cornelia",2025-06-27,PRJ001,work,8
+E147609,"Rotaru, Daniel",2025-06-23,PRJ001,work,8
+E147609,"Rotaru, Daniel",2025-06-24,PRJ001,work,8
+E147609,"Rotaru, Daniel",2025-06-25,PRJ001,work,8
+E147609,"Rotaru, Daniel",2025-06-26,PRJ001,work,8
+E147609,"Rotaru, Daniel",2025-06-27,PRJ001,work,8
+E147610,"Fechita, Diandra Maria",2025-06-23,PRJ001,work,8
+E147610,"Fechita, Diandra Maria",2025-06-24,PRJ001,work,8
+E147610,"Fechita, Diandra Maria",2025-06-25,PRJ001,work,8
+E147610,"Fechita, Diandra Maria",2025-06-26,PRJ001,work,8
+E147610,"Fechita, Diandra Maria",2025-06-27,PRJ001,work,8
+E147628,"Ghiuta, Cristian",2025-06-23,PRJ001,work,8
+E147628,"Ghiuta, Cristian",2025-06-24,PRJ001,work,8
+E147628,"Ghiuta, Cristian",2025-06-25,PRJ001,work,8
+E147628,"Ghiuta, Cristian",2025-06-26,PRJ001,work,8
+E147628,"Ghiuta, Cristian",2025-06-27,PRJ001,work,8
+E147629,"Serban, Alexandru",2025-06-23,PRJ001,work,8
+E147629,"Serban, Alexandru",2025-06-24,PRJ001,work,8
+E147629,"Serban, Alexandru",2025-06-25,PRJ001,work,8
+E147629,"Serban, Alexandru",2025-06-26,PRJ001,work,8
+E147629,"Serban, Alexandru",2025-06-27,PRJ001,work,8
+E147630,"Popovici, Andrei L",2025-06-23,PRJ001,work,8
+E147630,"Popovici, Andrei L",2025-06-24,PRJ001,work,8
+E147630,"Popovici, Andrei L",2025-06-25,PRJ001,work,8
+E147630,"Popovici, Andrei L",2025-06-26,PRJ001,work,8
+E147630,"Popovici, Andrei L",2025-06-27,PRJ001,work,8
+E147631,"Morosanu, Irina",2025-06-23,PRJ001,work,8
+E147631,"Morosanu, Irina",2025-06-24,PRJ001,work,8
+E147631,"Morosanu, Irina",2025-06-25,PRJ001,work,8
+E147631,"Morosanu, Irina",2025-06-26,PRJ001,work,8
+E147631,"Morosanu, Irina",2025-06-27,PRJ001,work,8
+E147632,"Cazan, Alexandru Gabriel",2025-06-23,PRJ001,work,8
+E147632,"Cazan, Alexandru Gabriel",2025-06-24,PRJ001,work,8
+E147632,"Cazan, Alexandru Gabriel",2025-06-25,PRJ001,work,8
+E147632,"Cazan, Alexandru Gabriel",2025-06-26,PRJ001,work,8
+E147632,"Cazan, Alexandru Gabriel",2025-06-27,PRJ001,work,8
+E147633,"Baba, Alexandru",2025-06-23,PRJ001,work,8
+E147633,"Baba, Alexandru",2025-06-24,PRJ001,work,8
+E147633,"Baba, Alexandru",2025-06-25,PRJ001,work,8
+E147633,"Baba, Alexandru",2025-06-26,PRJ001,work,8
+E147633,"Baba, Alexandru",2025-06-27,PRJ001,work,8
+E147634,"Baranceanu, Vlad",2025-06-23,PRJ001,work,8
+E147634,"Baranceanu, Vlad",2025-06-24,PRJ001,work,8
+E147634,"Baranceanu, Vlad",2025-06-25,PRJ001,work,8
+E147634,"Baranceanu, Vlad",2025-06-26,PRJ001,work,8
+E147634,"Baranceanu, Vlad",2025-06-27,PRJ001,work,8
+E147635,"Spilevoi, Bogdan Vasile",2025-06-23,PRJ001,work,8
+E147635,"Spilevoi, Bogdan Vasile",2025-06-24,PRJ001,work,8
+E147635,"Spilevoi, Bogdan Vasile",2025-06-25,PRJ001,work,8
+E147635,"Spilevoi, Bogdan Vasile",2025-06-26,PRJ001,work,8
+E147635,"Spilevoi, Bogdan Vasile",2025-06-27,PRJ001,work,8
+E147636,"Butnariu, Iuliana Raluca",2025-06-23,PRJ001,work,8
+E147636,"Butnariu, Iuliana Raluca",2025-06-24,PRJ001,work,8
+E147636,"Butnariu, Iuliana Raluca",2025-06-25,PRJ001,work,8
+E147636,"Butnariu, Iuliana Raluca",2025-06-26,PRJ001,work,8
+E147636,"Butnariu, Iuliana Raluca",2025-06-27,PRJ001,work,8
+E147638,"Ciobanu, Ana",2025-06-23,PRJ001,work,8
+E147638,"Ciobanu, Ana",2025-06-24,PRJ001,work,8
+E147638,"Ciobanu, Ana",2025-06-25,PRJ001,work,8
+E147638,"Ciobanu, Ana",2025-06-26,PRJ001,work,8
+E147638,"Ciobanu, Ana",2025-06-27,PRJ001,work,8
+E147639,"Rosca, Rodica Elena",2025-06-23,PRJ001,work,8
+E147639,"Rosca, Rodica Elena",2025-06-24,PRJ001,work,8
+E147639,"Rosca, Rodica Elena",2025-06-25,PRJ001,work,8
+E147639,"Rosca, Rodica Elena",2025-06-26,PRJ001,work,8
+E147639,"Rosca, Rodica Elena",2025-06-27,PRJ001,work,8
+E147640,"Munteanu, Daniela",2025-06-23,PRJ001,work,8
+E147640,"Munteanu, Daniela",2025-06-24,PRJ001,work,8
+E147640,"Munteanu, Daniela",2025-06-25,PRJ001,work,8
+E147640,"Munteanu, Daniela",2025-06-26,PRJ001,work,8
+E147640,"Munteanu, Daniela",2025-06-27,PRJ001,work,8
+E147641,"Popovici, Luka",2025-06-23,PRJ001,work,8
+E147641,"Popovici, Luka",2025-06-24,PRJ001,work,8
+E147641,"Popovici, Luka",2025-06-25,PRJ001,work,8
+E147641,"Popovici, Luka",2025-06-26,PRJ001,work,8
+E147641,"Popovici, Luka",2025-06-27,PRJ001,work,8
+E147642,"Pavel, Silviu Mihail",2025-06-23,PRJ001,work,8
+E147642,"Pavel, Silviu Mihail",2025-06-24,PRJ001,work,8
+E147642,"Pavel, Silviu Mihail",2025-06-25,PRJ001,work,8
+E147642,"Pavel, Silviu Mihail",2025-06-26,PRJ001,work,8
+E147642,"Pavel, Silviu Mihail",2025-06-27,PRJ001,work,8
+E147644,"Agape, Ioan",2025-06-23,PRJ001,work,8
+E147644,"Agape, Ioan",2025-06-24,PRJ001,work,8
+E147644,"Agape, Ioan",2025-06-25,PRJ001,work,8
+E147644,"Agape, Ioan",2025-06-26,PRJ001,work,8
+E147644,"Agape, Ioan",2025-06-27,PRJ001,work,8
+E147647,"Mihoci, Rares",2025-06-23,PRJ001,work,8
+E147647,"Mihoci, Rares",2025-06-24,PRJ001,work,8
+E147647,"Mihoci, Rares",2025-06-25,PRJ001,work,8
+E147647,"Mihoci, Rares",2025-06-26,PRJ001,work,8
+E147647,"Mihoci, Rares",2025-06-27,PRJ001,work,8
+E147651,"Dumitru, Daniel Antoniu",2025-06-23,PRJ001,work,8
+E147651,"Dumitru, Daniel Antoniu",2025-06-24,PRJ001,work,8
+E147651,"Dumitru, Daniel Antoniu",2025-06-25,PRJ001,work,8
+E147651,"Dumitru, Daniel Antoniu",2025-06-26,PRJ001,work,8
+E147651,"Dumitru, Daniel Antoniu",2025-06-27,PRJ001,work,8
+E147652,"Ciobanu, Laura Andrada",2025-06-23,PRJ001,work,8
+E147652,"Ciobanu, Laura Andrada",2025-06-24,PRJ001,work,8
+E147652,"Ciobanu, Laura Andrada",2025-06-25,PRJ001,work,8
+E147652,"Ciobanu, Laura Andrada",2025-06-26,PRJ001,work,8
+E147652,"Ciobanu, Laura Andrada",2025-06-27,PRJ001,work,8
+E147653,"Ibanescu, Denisa",2025-06-23,PRJ001,work,8
+E147653,"Ibanescu, Denisa",2025-06-24,PRJ001,work,8
+E147653,"Ibanescu, Denisa",2025-06-25,PRJ001,work,8
+E147653,"Ibanescu, Denisa",2025-06-26,PRJ001,work,8
+E147653,"Ibanescu, Denisa",2025-06-27,PRJ001,work,8
+E147654,"Iacob, Anca Vasilica",2025-06-23,PRJ001,work,8
+E147654,"Iacob, Anca Vasilica",2025-06-24,PRJ001,work,8
+E147654,"Iacob, Anca Vasilica",2025-06-25,PRJ001,work,8
+E147654,"Iacob, Anca Vasilica",2025-06-26,PRJ001,work,8
+E147654,"Iacob, Anca Vasilica",2025-06-27,PRJ001,work,8
+E147655,"Felecanu, Cosmin",2025-06-23,PRJ001,work,8
+E147655,"Felecanu, Cosmin",2025-06-24,PRJ001,work,8
+E147655,"Felecanu, Cosmin",2025-06-25,PRJ001,work,8
+E147655,"Felecanu, Cosmin",2025-06-26,PRJ001,work,8
+E147655,"Felecanu, Cosmin",2025-06-27,PRJ001,work,8
+E147656,"Maximiuc, Teodora",2025-06-23,PRJ001,work,8
+E147656,"Maximiuc, Teodora",2025-06-24,PRJ001,work,8
+E147656,"Maximiuc, Teodora",2025-06-25,PRJ001,work,8
+E147656,"Maximiuc, Teodora",2025-06-26,PRJ001,work,8
+E147656,"Maximiuc, Teodora",2025-06-27,PRJ001,work,8
+E147657,"Socoteala, Andrei Alin",2025-06-23,PRJ001,work,8
+E147657,"Socoteala, Andrei Alin",2025-06-24,PRJ001,work,8
+E147657,"Socoteala, Andrei Alin",2025-06-25,PRJ001,work,8
+E147657,"Socoteala, Andrei Alin",2025-06-26,PRJ001,work,8
+E147657,"Socoteala, Andrei Alin",2025-06-27,PRJ001,work,8
+E147658,"Uliuliuc, Serafim",2025-06-23,PRJ001,work,8
+E147658,"Uliuliuc, Serafim",2025-06-24,PRJ001,work,8
+E147658,"Uliuliuc, Serafim",2025-06-25,PRJ001,work,8
+E147658,"Uliuliuc, Serafim",2025-06-26,PRJ001,work,8
+E147658,"Uliuliuc, Serafim",2025-06-27,PRJ001,work,8
+E147662,"Panainte, Alexandru",2025-06-23,PRJ001,work,8
+E147662,"Panainte, Alexandru",2025-06-24,PRJ001,work,8
+E147662,"Panainte, Alexandru",2025-06-25,PRJ001,work,8
+E147662,"Panainte, Alexandru",2025-06-26,PRJ001,work,8
+E147662,"Panainte, Alexandru",2025-06-27,PRJ001,work,8
+E147663,"Cotos, Stefan",2025-06-23,PRJ001,work,8
+E147663,"Cotos, Stefan",2025-06-24,PRJ001,work,8
+E147663,"Cotos, Stefan",2025-06-25,PRJ001,work,8
+E147663,"Cotos, Stefan",2025-06-26,PRJ001,work,8
+E147663,"Cotos, Stefan",2025-06-27,PRJ001,work,8
+E147665,"Cojocariu, Octavian",2025-06-23,PRJ001,work,8
+E147665,"Cojocariu, Octavian",2025-06-24,PRJ001,work,8
+E147665,"Cojocariu, Octavian",2025-06-25,PRJ001,work,8
+E147665,"Cojocariu, Octavian",2025-06-26,PRJ001,work,8
+E147665,"Cojocariu, Octavian",2025-06-27,PRJ001,work,8
+E147666,"Stirbu, Stefania Diana",2025-06-23,PRJ001,work,8
+E147666,"Stirbu, Stefania Diana",2025-06-24,PRJ001,work,8
+E147666,"Stirbu, Stefania Diana",2025-06-25,PRJ001,work,8
+E147666,"Stirbu, Stefania Diana",2025-06-26,PRJ001,work,8
+E147666,"Stirbu, Stefania Diana",2025-06-27,PRJ001,work,8
+E147667,"Mihai, Tudor",2025-06-23,PRJ001,work,8
+E147667,"Mihai, Tudor",2025-06-24,PRJ001,work,8
+E147667,"Mihai, Tudor",2025-06-25,PRJ001,work,8
+E147667,"Mihai, Tudor",2025-06-26,PRJ001,work,8
+E147667,"Mihai, Tudor",2025-06-27,PRJ001,work,8
+E147668,"Cront, Andreea",2025-06-23,PRJ001,work,8
+E147668,"Cront, Andreea",2025-06-24,PRJ001,work,8
+E147668,"Cront, Andreea",2025-06-25,PRJ001,work,8
+E147668,"Cront, Andreea",2025-06-26,PRJ001,work,8
+E147668,"Cront, Andreea",2025-06-27,PRJ001,work,8
+E147669,"Cazan, Rares Stefan",2025-06-23,PRJ001,work,8
+E147669,"Cazan, Rares Stefan",2025-06-24,PRJ001,work,8
+E147669,"Cazan, Rares Stefan",2025-06-25,PRJ001,work,8
+E147669,"Cazan, Rares Stefan",2025-06-26,PRJ001,work,8
+E147669,"Cazan, Rares Stefan",2025-06-27,PRJ001,work,8
+E147670,"Olaru, Maria Madalina",2025-06-23,PRJ001,work,8
+E147670,"Olaru, Maria Madalina",2025-06-24,PRJ001,work,8
+E147670,"Olaru, Maria Madalina",2025-06-25,PRJ001,work,8
+E147670,"Olaru, Maria Madalina",2025-06-26,PRJ001,work,8
+E147670,"Olaru, Maria Madalina",2025-06-27,PRJ001,work,8
+E147671,"Grajdeanu, Alexandru Cristian",2025-06-23,PRJ001,work,8
+E147671,"Grajdeanu, Alexandru Cristian",2025-06-24,PRJ001,work,8
+E147671,"Grajdeanu, Alexandru Cristian",2025-06-25,PRJ001,work,8
+E147671,"Grajdeanu, Alexandru Cristian",2025-06-26,PRJ001,work,8
+E147671,"Grajdeanu, Alexandru Cristian",2025-06-27,PRJ001,work,8
+E147672,"Roca, Denis",2025-06-23,PRJ001,work,8
+E147672,"Roca, Denis",2025-06-24,PRJ001,work,8
+E147672,"Roca, Denis",2025-06-25,PRJ001,work,8
+E147672,"Roca, Denis",2025-06-26,PRJ001,work,8
+E147672,"Roca, Denis",2025-06-27,PRJ001,work,8
+E147673,"Stan, Gabriela Miruna",2025-06-23,PRJ001,work,8
+E147673,"Stan, Gabriela Miruna",2025-06-24,PRJ001,work,8
+E147673,"Stan, Gabriela Miruna",2025-06-25,PRJ001,work,8
+E147673,"Stan, Gabriela Miruna",2025-06-26,PRJ001,work,8
+E147673,"Stan, Gabriela Miruna",2025-06-27,PRJ001,work,8
+E147675,"Armanu, Alexandru Marian",2025-06-23,PRJ001,work,8
+E147675,"Armanu, Alexandru Marian",2025-06-24,PRJ001,work,8
+E147675,"Armanu, Alexandru Marian",2025-06-25,PRJ001,work,8
+E147675,"Armanu, Alexandru Marian",2025-06-26,PRJ001,work,8
+E147675,"Armanu, Alexandru Marian",2025-06-27,PRJ001,work,8
+E147689,"Maciuc, Mihai",2025-06-23,PRJ001,work,8
+E147689,"Maciuc, Mihai",2025-06-24,PRJ001,work,8
+E147689,"Maciuc, Mihai",2025-06-25,PRJ001,work,8
+E147689,"Maciuc, Mihai",2025-06-26,PRJ001,work,8
+E147689,"Maciuc, Mihai",2025-06-27,PRJ001,work,8
+E147690,"Leonte, Tudor",2025-06-23,PRJ001,work,8
+E147690,"Leonte, Tudor",2025-06-24,PRJ001,work,8
+E147690,"Leonte, Tudor",2025-06-25,PRJ001,work,8
+E147690,"Leonte, Tudor",2025-06-26,PRJ001,work,8
+E147690,"Leonte, Tudor",2025-06-27,PRJ001,work,8
+E147691,"Rusu, Iuliana Elena",2025-06-23,PRJ001,work,8
+E147691,"Rusu, Iuliana Elena",2025-06-24,PRJ001,work,8
+E147691,"Rusu, Iuliana Elena",2025-06-25,PRJ001,work,8
+E147691,"Rusu, Iuliana Elena",2025-06-26,PRJ001,work,8
+E147691,"Rusu, Iuliana Elena",2025-06-27,PRJ001,work,8
+E147693,"Tarcan, Alexandru",2025-06-23,PRJ001,work,8
+E147693,"Tarcan, Alexandru",2025-06-24,PRJ001,work,8
+E147693,"Tarcan, Alexandru",2025-06-25,PRJ001,work,8
+E147693,"Tarcan, Alexandru",2025-06-26,PRJ001,work,8
+E147693,"Tarcan, Alexandru",2025-06-27,PRJ001,work,8
+E147695,"Stoica, Radu Ioan",2025-06-23,PRJ001,work,8
+E147695,"Stoica, Radu Ioan",2025-06-24,PRJ001,work,8
+E147695,"Stoica, Radu Ioan",2025-06-25,PRJ001,work,8
+E147695,"Stoica, Radu Ioan",2025-06-26,PRJ001,work,8
+E147695,"Stoica, Radu Ioan",2025-06-27,PRJ001,work,8
+E147696,"Arama, Luigi Emanuel",2025-06-23,PRJ001,work,8
+E147696,"Arama, Luigi Emanuel",2025-06-24,PRJ001,work,8
+E147696,"Arama, Luigi Emanuel",2025-06-25,PRJ001,work,8
+E147696,"Arama, Luigi Emanuel",2025-06-26,PRJ001,work,8
+E147696,"Arama, Luigi Emanuel",2025-06-27,PRJ001,work,8
+E147697,"Amihailesei, Mihnea",2025-06-23,PRJ001,work,8
+E147697,"Amihailesei, Mihnea",2025-06-24,PRJ001,work,8
+E147697,"Amihailesei, Mihnea",2025-06-25,PRJ001,work,8
+E147697,"Amihailesei, Mihnea",2025-06-26,PRJ001,work,8
+E147697,"Amihailesei, Mihnea",2025-06-27,PRJ001,work,8
+E147698,"Aprofirei, Cezara Teofana",2025-06-23,PRJ001,work,8
+E147698,"Aprofirei, Cezara Teofana",2025-06-24,PRJ001,work,8
+E147698,"Aprofirei, Cezara Teofana",2025-06-25,PRJ001,work,8
+E147698,"Aprofirei, Cezara Teofana",2025-06-26,PRJ001,work,8
+E147698,"Aprofirei, Cezara Teofana",2025-06-27,PRJ001,work,8
+E147699,"Mariniuc, Eduard Stefan",2025-06-23,PRJ001,work,8
+E147699,"Mariniuc, Eduard Stefan",2025-06-24,PRJ001,work,8
+E147699,"Mariniuc, Eduard Stefan",2025-06-25,PRJ001,work,8
+E147699,"Mariniuc, Eduard Stefan",2025-06-26,PRJ001,work,8
+E147699,"Mariniuc, Eduard Stefan",2025-06-27,PRJ001,work,8
+E147700,"Avram, Andrei George",2025-06-23,PRJ001,work,8
+E147700,"Avram, Andrei George",2025-06-24,PRJ001,work,8
+E147700,"Avram, Andrei George",2025-06-25,PRJ001,work,8
+E147700,"Avram, Andrei George",2025-06-26,PRJ001,work,8
+E147700,"Avram, Andrei George",2025-06-27,PRJ001,work,8
+E147704,"Stefanache, Rafael Ionut",2025-06-23,PRJ001,work,8
+E147704,"Stefanache, Rafael Ionut",2025-06-24,PRJ001,work,8
+E147704,"Stefanache, Rafael Ionut",2025-06-25,PRJ001,work,8
+E147704,"Stefanache, Rafael Ionut",2025-06-26,PRJ001,work,8
+E147704,"Stefanache, Rafael Ionut",2025-06-27,PRJ001,work,8
+E147705,"Guriuc, Vlad Ionut",2025-06-23,PRJ001,work,8
+E147705,"Guriuc, Vlad Ionut",2025-06-24,PRJ001,work,8
+E147705,"Guriuc, Vlad Ionut",2025-06-25,PRJ001,work,8
+E147705,"Guriuc, Vlad Ionut",2025-06-26,PRJ001,work,8
+E147705,"Guriuc, Vlad Ionut",2025-06-27,PRJ001,work,8
+E147706,"Maxim, Dragos",2025-06-23,PRJ001,absence,0
+E147706,"Maxim, Dragos",2025-06-24,PRJ001,absence,0
+E147706,"Maxim, Dragos",2025-06-25,PRJ001,absence,0
+E147706,"Maxim, Dragos",2025-06-26,PRJ001,work,20
+E147706,"Maxim, Dragos",2025-06-27,PRJ001,work,20
+E147707,"Ungureanu, Sergiu",2025-06-23,PRJ001,work,8
+E147707,"Ungureanu, Sergiu",2025-06-24,PRJ001,work,8
+E147707,"Ungureanu, Sergiu",2025-06-25,PRJ001,work,8
+E147707,"Ungureanu, Sergiu",2025-06-26,PRJ001,work,8
+E147707,"Ungureanu, Sergiu",2025-06-27,PRJ001,work,8
+E147708,"Branici, Radu",2025-06-23,PRJ001,work,8
+E147708,"Branici, Radu",2025-06-24,PRJ001,work,8
+E147708,"Branici, Radu",2025-06-25,PRJ001,work,8
+E147708,"Branici, Radu",2025-06-26,PRJ001,work,8
+E147708,"Branici, Radu",2025-06-27,PRJ001,work,8
+E147709,"Curduman, Miruna",2025-06-23,PRJ001,work,8
+E147709,"Curduman, Miruna",2025-06-24,PRJ001,work,8
+E147709,"Curduman, Miruna",2025-06-25,PRJ001,work,8
+E147709,"Curduman, Miruna",2025-06-26,PRJ001,work,8
+E147709,"Curduman, Miruna",2025-06-27,PRJ001,work,8
+E147710,"Mihnea, Andrei",2025-06-23,PRJ001,work,8
+E147710,"Mihnea, Andrei",2025-06-24,PRJ001,work,8
+E147710,"Mihnea, Andrei",2025-06-25,PRJ001,work,8
+E147710,"Mihnea, Andrei",2025-06-26,PRJ001,work,8
+E147710,"Mihnea, Andrei",2025-06-27,PRJ001,work,8
+E147711,"Burlica, Alexandru",2025-06-23,PRJ001,work,8
+E147711,"Burlica, Alexandru",2025-06-24,PRJ001,work,8
+E147711,"Burlica, Alexandru",2025-06-25,PRJ001,work,8
+E147711,"Burlica, Alexandru",2025-06-26,PRJ001,work,8
+E147711,"Burlica, Alexandru",2025-06-27,PRJ001,work,8
+E147712,"Ionita, Alexandru Dumitru",2025-06-23,PRJ001,work,8
+E147712,"Ionita, Alexandru Dumitru",2025-06-24,PRJ001,work,8
+E147712,"Ionita, Alexandru Dumitru",2025-06-25,PRJ001,work,8
+E147712,"Ionita, Alexandru Dumitru",2025-06-26,PRJ001,work,8
+E147712,"Ionita, Alexandru Dumitru",2025-06-27,PRJ001,work,8
+E147713,"Margarint, Rares Gabriel",2025-06-23,PRJ001,work,8
+E147713,"Margarint, Rares Gabriel",2025-06-24,PRJ001,work,8
+E147713,"Margarint, Rares Gabriel",2025-06-25,PRJ001,work,8
+E147713,"Margarint, Rares Gabriel",2025-06-26,PRJ001,work,8
+E147713,"Margarint, Rares Gabriel",2025-06-27,PRJ001,work,8
+E147714,"Ciumac, Polina",2025-06-23,PRJ001,work,8
+E147714,"Ciumac, Polina",2025-06-24,PRJ001,work,8
+E147714,"Ciumac, Polina",2025-06-25,PRJ001,work,8
+E147714,"Ciumac, Polina",2025-06-26,PRJ001,work,8
+E147714,"Ciumac, Polina",2025-06-27,PRJ001,work,8
+E147715,"Popa, Ioana Alexia",2025-06-23,PRJ001,work,8
+E147715,"Popa, Ioana Alexia",2025-06-24,PRJ001,work,8
+E147715,"Popa, Ioana Alexia",2025-06-25,PRJ001,work,8
+E147715,"Popa, Ioana Alexia",2025-06-26,PRJ001,work,8
+E147715,"Popa, Ioana Alexia",2025-06-27,PRJ001,work,8
+E147717,"Craciun, Daria",2025-06-23,PRJ001,work,8
+E147717,"Craciun, Daria",2025-06-24,PRJ001,work,8
+E147717,"Craciun, Daria",2025-06-25,PRJ001,work,8
+E147717,"Craciun, Daria",2025-06-26,PRJ001,work,8
+E147717,"Craciun, Daria",2025-06-27,PRJ001,work,8
+E147718,"Luculescu, Emanuel",2025-06-23,PRJ001,work,8
+E147718,"Luculescu, Emanuel",2025-06-24,PRJ001,work,8
+E147718,"Luculescu, Emanuel",2025-06-25,PRJ001,work,8
+E147718,"Luculescu, Emanuel",2025-06-26,PRJ001,work,8
+E147718,"Luculescu, Emanuel",2025-06-27,PRJ001,work,8
+E147719,"Badarau, Dragos",2025-06-23,PRJ001,work,8
+E147719,"Badarau, Dragos",2025-06-24,PRJ001,work,8
+E147719,"Badarau, Dragos",2025-06-25,PRJ001,work,8
+E147719,"Badarau, Dragos",2025-06-26,PRJ001,work,8
+E147719,"Badarau, Dragos",2025-06-27,PRJ001,work,8
+E147720,"Stescu, Stefan",2025-06-23,PRJ001,work,8
+E147720,"Stescu, Stefan",2025-06-24,PRJ001,work,8
+E147720,"Stescu, Stefan",2025-06-25,PRJ001,work,8
+E147720,"Stescu, Stefan",2025-06-26,PRJ001,work,8
+E147720,"Stescu, Stefan",2025-06-27,PRJ001,work,8
+E147721,"Bardasu, Alexandru",2025-06-23,PRJ001,work,8
+E147721,"Bardasu, Alexandru",2025-06-24,PRJ001,work,8
+E147721,"Bardasu, Alexandru",2025-06-25,PRJ001,work,8
+E147721,"Bardasu, Alexandru",2025-06-26,PRJ001,work,8
+E147721,"Bardasu, Alexandru",2025-06-27,PRJ001,work,8
+E147723,"Chirila, Sabin",2025-06-23,PRJ001,work,8
+E147723,"Chirila, Sabin",2025-06-24,PRJ001,work,8
+E147723,"Chirila, Sabin",2025-06-25,PRJ001,work,8
+E147723,"Chirila, Sabin",2025-06-26,PRJ001,work,8
+E147723,"Chirila, Sabin",2025-06-27,PRJ001,work,8
+E147724,"Ambros, Iulius Stefan",2025-06-23,PRJ001,work,8
+E147724,"Ambros, Iulius Stefan",2025-06-24,PRJ001,work,8
+E147724,"Ambros, Iulius Stefan",2025-06-25,PRJ001,work,8
+E147724,"Ambros, Iulius Stefan",2025-06-26,PRJ001,work,8
+E147724,"Ambros, Iulius Stefan",2025-06-27,PRJ001,work,8
+E147725,"Dobrenco, Sanda",2025-06-23,PRJ001,work,8
+E147725,"Dobrenco, Sanda",2025-06-24,PRJ001,work,8
+E147725,"Dobrenco, Sanda",2025-06-25,PRJ001,work,8
+E147725,"Dobrenco, Sanda",2025-06-26,PRJ001,work,8
+E147725,"Dobrenco, Sanda",2025-06-27,PRJ001,work,8
+E147726,"Popa, Sabin Andrei",2025-06-23,PRJ001,work,8
+E147726,"Popa, Sabin Andrei",2025-06-24,PRJ001,work,8
+E147726,"Popa, Sabin Andrei",2025-06-25,PRJ001,work,8
+E147726,"Popa, Sabin Andrei",2025-06-26,PRJ001,work,8
+E147726,"Popa, Sabin Andrei",2025-06-27,PRJ001,work,8
+E147727,"Beschieru, Marius",2025-06-23,PRJ001,work,8
+E147727,"Beschieru, Marius",2025-06-24,PRJ001,work,8
+E147727,"Beschieru, Marius",2025-06-25,PRJ001,work,8
+E147727,"Beschieru, Marius",2025-06-26,PRJ001,work,8
+E147727,"Beschieru, Marius",2025-06-27,PRJ001,work,8
+E147728,"Vasilita, Irina",2025-06-23,PRJ001,work,8
+E147728,"Vasilita, Irina",2025-06-24,PRJ001,work,8
+E147728,"Vasilita, Irina",2025-06-25,PRJ001,work,8
+E147728,"Vasilita, Irina",2025-06-26,PRJ001,work,8
+E147728,"Vasilita, Irina",2025-06-27,PRJ001,work,8
+E147729,"Ciobanu, Calin",2025-06-23,PRJ001,work,8
+E147729,"Ciobanu, Calin",2025-06-24,PRJ001,work,8
+E147729,"Ciobanu, Calin",2025-06-25,PRJ001,work,8
+E147729,"Ciobanu, Calin",2025-06-26,PRJ001,work,8
+E147729,"Ciobanu, Calin",2025-06-27,PRJ001,work,8
+E147735,"Danca, Alexandra Simona",2025-06-23,PRJ001,work,8
+E147735,"Danca, Alexandra Simona",2025-06-24,PRJ001,work,8
+E147735,"Danca, Alexandra Simona",2025-06-25,PRJ001,work,8
+E147735,"Danca, Alexandra Simona",2025-06-26,PRJ001,work,8
+E147735,"Danca, Alexandra Simona",2025-06-27,PRJ001,work,8
+E147736,"Paduraru, Stefan Tiberiu",2025-06-23,PRJ001,work,8
+E147736,"Paduraru, Stefan Tiberiu",2025-06-24,PRJ001,work,8
+E147736,"Paduraru, Stefan Tiberiu",2025-06-25,PRJ001,work,8
+E147736,"Paduraru, Stefan Tiberiu",2025-06-26,PRJ001,work,8
+E147736,"Paduraru, Stefan Tiberiu",2025-06-27,PRJ001,work,8
+E147737,"Istrate, Liviu",2025-06-23,PRJ001,work,8
+E147737,"Istrate, Liviu",2025-06-24,PRJ001,work,8
+E147737,"Istrate, Liviu",2025-06-25,PRJ001,work,8
+E147737,"Istrate, Liviu",2025-06-26,PRJ001,work,8
+E147737,"Istrate, Liviu",2025-06-27,PRJ001,work,8
+E147740,"Lutic, Denisa",2025-06-23,PRJ001,work,8
+E147740,"Lutic, Denisa",2025-06-24,PRJ001,work,8
+E147740,"Lutic, Denisa",2025-06-25,PRJ001,work,8
+E147740,"Lutic, Denisa",2025-06-26,PRJ001,work,8
+E147740,"Lutic, Denisa",2025-06-27,PRJ001,work,8
+E147741,"Tinta, Andrada Maria",2025-06-23,PRJ001,work,8
+E147741,"Tinta, Andrada Maria",2025-06-24,PRJ001,work,8
+E147741,"Tinta, Andrada Maria",2025-06-25,PRJ001,work,8
+E147741,"Tinta, Andrada Maria",2025-06-26,PRJ001,work,8
+E147741,"Tinta, Andrada Maria",2025-06-27,PRJ001,work,8
+E147742,"Gheorghe, Theodor Cristian",2025-06-23,PRJ001,work,8
+E147742,"Gheorghe, Theodor Cristian",2025-06-24,PRJ001,work,8
+E147742,"Gheorghe, Theodor Cristian",2025-06-25,PRJ001,work,8
+E147742,"Gheorghe, Theodor Cristian",2025-06-26,PRJ001,work,8
+E147742,"Gheorghe, Theodor Cristian",2025-06-27,PRJ001,work,8
+E147743,"Patlatii, Adelina",2025-06-23,PRJ001,work,8
+E147743,"Patlatii, Adelina",2025-06-24,PRJ001,work,8
+E147743,"Patlatii, Adelina",2025-06-25,PRJ001,work,8
+E147743,"Patlatii, Adelina",2025-06-26,PRJ001,work,8
+E147743,"Patlatii, Adelina",2025-06-27,PRJ001,work,8
+E147746,"Caplea, Veronica",2025-06-23,PRJ001,work,8
+E147746,"Caplea, Veronica",2025-06-24,PRJ001,work,8
+E147746,"Caplea, Veronica",2025-06-25,PRJ001,work,8
+E147746,"Caplea, Veronica",2025-06-26,PRJ001,work,8
+E147746,"Caplea, Veronica",2025-06-27,PRJ001,work,8
+E147764,"Ursu, Catalin",2025-06-23,PRJ001,work,8
+E147764,"Ursu, Catalin",2025-06-24,PRJ001,work,8
+E147764,"Ursu, Catalin",2025-06-25,PRJ001,work,8
+E147764,"Ursu, Catalin",2025-06-26,PRJ001,work,8
+E147764,"Ursu, Catalin",2025-06-27,PRJ001,work,8
+E147907,"Yang, Luisa Yi Qing",2025-06-23,PRJ001,work,8
+E147907,"Yang, Luisa Yi Qing",2025-06-24,PRJ001,work,8
+E147907,"Yang, Luisa Yi Qing",2025-06-25,PRJ001,work,8
+E147907,"Yang, Luisa Yi Qing",2025-06-26,PRJ001,work,8
+E147907,"Yang, Luisa Yi Qing",2025-06-27,PRJ001,work,8
+E3631,"Bosanceanu, Olga",2025-06-23,PRJ001,work,8
+E3631,"Bosanceanu, Olga",2025-06-24,PRJ001,work,8
+E3631,"Bosanceanu, Olga",2025-06-25,PRJ001,work,8
+E3631,"Bosanceanu, Olga",2025-06-26,PRJ001,work,8
+E3631,"Bosanceanu, Olga",2025-06-27,PRJ001,work,8
+E5896,"Zberea, Adrian",2025-06-23,PRJ001,work,8
+E5896,"Zberea, Adrian",2025-06-24,PRJ001,work,8
+E5896,"Zberea, Adrian",2025-06-25,PRJ001,work,8
+E5896,"Zberea, Adrian",2025-06-26,PRJ001,work,8
+E5896,"Zberea, Adrian",2025-06-27,PRJ001,work,8
+E6446,"Puscasu, Dragos Constantin",2025-06-23,PRJ001,work,8
+E6446,"Puscasu, Dragos Constantin",2025-06-24,PRJ001,work,8
+E6446,"Puscasu, Dragos Constantin",2025-06-25,PRJ001,work,8
+E6446,"Puscasu, Dragos Constantin",2025-06-26,PRJ001,work,8
+E6446,"Puscasu, Dragos Constantin",2025-06-27,PRJ001,work,8

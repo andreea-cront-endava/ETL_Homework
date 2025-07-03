@@ -1,0 +1,707 @@
+1. Summary,,,,,,
+Meeting title,Dava.X Academy - ETL Theory training sessions,,,,,
+Attended participants,319,,,,,
+Start time,"6/26/25, 1:47:50 PM",,,,,
+End time,"6/26/25, 4:20:06 PM",,,,,
+Meeting duration,2h 32m 16s,,,,,
+Average attendance time,1h 54m 42s,,,,,
+,,,,,,
+2. Participants,,,,,,
+Name,First Join,Last Leave,In-Meeting Duration,Email,Participant ID (UPN),Role
+Alice Tache,"6/26/25, 1:51:19 PM","6/26/25, 4:00:30 PM",2h 6m,Alice.Tache@endava.com,Alice.Tache@endava.com,Organizer
+Virgil Cimpean,"6/26/25, 1:47:54 PM","6/26/25, 3:59:27 PM",2h 11m 33s,Virgil.Cimpean@endava.com,Virgil.Cimpean@endava.com,Presenter
+Ferdinand Alexandru Cabat,"6/26/25, 1:48:02 PM","6/26/25, 3:59:22 PM",2h 11m 19s,Ferdinand-Alexandru.Cabat@endava.com,Ferdinand-Alexandru.Cabat@endava.com,Presenter
+Stefan Liute,"6/26/25, 1:48:02 PM","6/26/25, 3:59:46 PM",2h 11m 44s,Stefan.Liute@endava.com,Stefan.Liute@endava.com,Presenter
+Vlad Marian Pitariu,"6/26/25, 1:48:03 PM","6/26/25, 3:53:07 PM",1h 50m 10s,Vlad-Marian.Pitariu@endava.com,Vlad-Marian.Pitariu@endava.com,Presenter
+Simona Boicu,"6/26/25, 1:48:06 PM","6/26/25, 3:59:35 PM",2h 11m 29s,Simona.Boicu@endava.com,Simona.Boicu@endava.com,Presenter
+Rares Anton Brezeanu,"6/26/25, 1:48:11 PM","6/26/25, 3:38:19 PM",1h 41m 19s,Rares-Anton.Brezeanu@endava.com,Rares-Anton.Brezeanu@endava.com,Presenter
+Vlad Muresan,"6/26/25, 1:48:37 PM","6/26/25, 3:59:27 PM",2h 10m 50s,Vlad.Muresan3@endava.com,Vlad.Muresan3@endava.com,Presenter
+Bogdan Patrania,"6/26/25, 1:48:40 PM","6/26/25, 3:59:23 PM",2h 28s,Bogdan.Patrania@endava.com,Bogdan.Patrania@endava.com,Presenter
+Razvan Petru Leonte,"6/26/25, 1:48:40 PM","6/26/25, 3:59:16 PM",2h 10m 36s,Razvan-Petru.Leonte@endava.com,Razvan-Petru.Leonte@endava.com,Presenter
+Daniela Maria Pascan,"6/26/25, 1:48:41 PM","6/26/25, 3:59:07 PM",2h 5m 31s,Daniela-Maria.Pascan@endava.com,Daniela-Maria.Pascan@endava.com,Presenter
+Cosmin-Nicusor Brumariu,"6/26/25, 1:48:50 PM","6/26/25, 3:59:36 PM",2h 10m 45s,Cosmin-Nicusor.Brumariu@endava.com,Cosmin-Nicusor.Brumariu@endava.com,Presenter
+Rares Muresan,"6/26/25, 1:49:17 PM","6/26/25, 4:20:05 PM",2h 30m 47s,Rares.Muresan@endava.com,Rares.Muresan@endava.com,Presenter
+Anton Calin Stroia,"6/26/25, 1:49:44 PM","6/26/25, 3:59:00 PM",2h 3m 5s,Anton-Calin.Stroia@endava.com,Anton-Calin.Stroia@endava.com,Presenter
+Radu Nicolae,"6/26/25, 1:50:25 PM","6/26/25, 3:59:37 PM",2h 2m 42s,Radu-Mihai.Nicoale@endava.com,Radu-Mihai.Nicoale@endava.com,Presenter
+Alexandru Mihai Matei,"6/26/25, 1:50:36 PM","6/26/25, 3:59:36 PM",2h 8m 59s,Alexandru-Mihai.Matei@endava.com,Alexandru-Mihai.Matei@endava.com,Presenter
+Ionut Vlad Cira,"6/26/25, 1:50:40 PM","6/26/25, 3:59:04 PM",2h 8m 24s,Ionut-Vlad.Cira@endava.com,Ionut-Vlad.Cira@endava.com,Presenter
+Andreea Cront,"6/26/25, 1:50:48 PM","6/26/25, 3:59:17 PM",1h 57m 44s,Andreea.Cront@endava.com,Andreea.Cront@endava.com,Presenter
+Arthur Negosanu,"6/26/25, 1:50:49 PM","6/26/25, 3:59:44 PM",2h 8m 55s,Arthur.Negosanu@endava.com,Arthur.Negosanu@endava.com,Presenter
+Andrei-Alexandru Midus,"6/26/25, 1:51:03 PM","6/26/25, 3:59:13 PM",2h 8m 9s,Andrei-Alexandru.Midus@endava.com,Andrei-Alexandru.Midus@endava.com,Presenter
+Carmen-Gabriela Nadragea,"6/26/25, 1:51:24 PM","6/26/25, 3:59:36 PM",2h 5m 27s,Carmen-Gabriela.Nadragea@endava.com,Carmen-Gabriela.Nadragea@endava.com,Presenter
+Rita Timea Torok,"6/26/25, 1:51:30 PM","6/26/25, 3:34:47 PM",1h 41m 31s,Rita-Timea.Torok@endava.com,Rita-Timea.Torok@endava.com,Presenter
+Andrei Octavian Minca,"6/26/25, 1:51:31 PM","6/26/25, 3:54:01 PM",2h 2m 30s,Andrei-Octavian.Minca@endava.com,Andrei-Octavian.Minca@endava.com,Presenter
+Robert-Viorel Lazarov,"6/26/25, 1:51:38 PM","6/26/25, 4:17:41 PM",2h 44s,Robert-Viorel.Lazarov@endava.com,Robert-Viorel.Lazarov@endava.com,Presenter
+Alexandru Zagan,"6/26/25, 1:51:39 PM","6/26/25, 4:00:10 PM",2h 8m 30s,Alexandru.Zagan@endava.com,Alexandru.Zagan@endava.com,Presenter
+Razvan Dumitru,"6/26/25, 1:51:44 PM","6/26/25, 3:59:41 PM",2h 7m 57s,Razvan.Dumitru@endava.com,Razvan.Dumitru@endava.com,Presenter
+Alexandru Topan-Farcau,"6/26/25, 1:52:00 PM","6/26/25, 3:59:05 PM",2h 7m 5s,Alexandru.Topan@endava.com,Alexandru.Topan@endava.com,Presenter
+Ariana Casandra Olaru,"6/26/25, 1:52:14 PM","6/26/25, 3:58:58 PM",2h 4m 28s,Ariana-Casandra.Olaru@endava.com,Ariana-Casandra.Olaru@endava.com,Presenter
+Dragos Vatra,"6/26/25, 1:52:41 PM","6/26/25, 3:59:04 PM",2h 6m 23s,Dragos.Vatra@endava.com,Dragos.Vatra@endava.com,Presenter
+Marcos Dimitris Fetcu,"6/26/25, 1:52:46 PM","6/26/25, 3:46:46 PM",1h 54m,Marcos-Dimitris.Fetcu@endava.com,Marcos-Dimitris.Fetcu@endava.com,Presenter
+Gabriela-Sidonia Ciontolac,"6/26/25, 1:52:53 PM","6/26/25, 3:59:41 PM",2h 6m 47s,Gabriela-Sidonia.Ciontolac@endava.com,Gabriela-Sidonia.Ciontolac@endava.com,Presenter
+Stefan Tiberiu Paduraru,"6/26/25, 1:53:02 PM","6/26/25, 3:59:28 PM",2h 6m 26s,Stefan-Tiberiu.Paduraru@endava.com,Stefan-Tiberiu.Paduraru@endava.com,Presenter
+Bogdan Vasile Spilevoi,"6/26/25, 1:53:08 PM","6/26/25, 3:59:37 PM",2h 6m 29s,Bogdan-Vasile.Spilevoi@endava.com,Bogdan-Vasile.Spilevoi@endava.com,Presenter
+Gabriela Miruna Stan,"6/26/25, 1:53:09 PM","6/26/25, 3:59:23 PM",2h 1m 47s,Gabriela-Miruna.Stan@endava.com,Gabriela-Miruna.Stan@endava.com,Presenter
+Sergiu Ungureanu,"6/26/25, 1:53:15 PM","6/26/25, 3:56:13 PM",2h 2m 57s,Sergiu.Ungureanu2@endava.com,Sergiu.Ungureanu2@endava.com,Presenter
+Alexandru Burlica,"6/26/25, 1:53:21 PM","6/26/25, 3:59:31 PM",2h 6m 9s,Alexandru.Burlica@endava.com,Alexandru.Burlica@endava.com,Presenter
+Radu Ioan Stoica,"6/26/25, 1:53:24 PM","6/26/25, 3:52:38 PM",1h 59m 13s,Radu-Ioan.Stoica@endava.com,Radu-Ioan.Stoica@endava.com,Presenter
+Lavinia Avram,"6/26/25, 1:53:31 PM","6/26/25, 3:48:47 PM",1h 55m 16s,Lavinia.Avram@endava.com,Lavinia.Avram@endava.com,Presenter
+Alexandru Baba,"6/26/25, 1:53:35 PM","6/26/25, 3:59:41 PM",2h 2m 34s,Alexandru.Baba@endava.com,Alexandru.Baba@endava.com,Presenter
+Daniel Rotaru,"6/26/25, 1:53:35 PM","6/26/25, 3:59:07 PM",2h 5m 31s,Daniel.Rotaru@endava.com,Daniel.Rotaru@endava.com,Presenter
+Adelina Patlatii,"6/26/25, 1:53:49 PM","6/26/25, 3:59:18 PM",2h 5m 28s,Adelina.Patlatii@endava.com,Adelina.Patlatii@endava.com,Presenter
+Bianca Anamaria Chiorean,"6/26/25, 1:53:53 PM","6/26/25, 3:08:31 PM",1h 14m 38s,Bianca-Anamaria.Chiorean@endava.com,Bianca-Anamaria.Chiorean@endava.com,Presenter
+Vlad Ionut Guriuc,"6/26/25, 1:53:58 PM","6/26/25, 3:56:24 PM",2h 2m 25s,Vlad-Ionut.Guriuc@endava.com,Vlad-Ionut.Guriuc@endava.com,Presenter
+Tudor Mihai,"6/26/25, 1:53:59 PM","6/26/25, 3:58:55 PM",2h 4m 55s,Tudor.Mihai@endava.com,Tudor.Mihai@endava.com,Presenter
+David Serban,"6/26/25, 1:54:03 PM","6/26/25, 3:59:41 PM",2h 4m 13s,David.Serban@endava.com,David.Serban@endava.com,Presenter
+Petru Adelin Cojocaru,"6/26/25, 1:54:05 PM","6/26/25, 3:59:45 PM",2h 5m 40s,Petru-Adelin.Cojocaru@endava.com,Petru-Adelin.Cojocaru@endava.com,Presenter
+Denisa Elena Stolniceanu,"6/26/25, 1:54:10 PM","6/26/25, 2:52:32 PM",38m 51s,Denisa-Elena.Stolniceanu@endava.com,Denisa-Elena.Stolniceanu@endava.com,Presenter
+Alexandru Tarcan,"6/26/25, 1:54:11 PM","6/26/25, 3:59:46 PM",2h 5m 35s,Alexandru.Tarcan@endava.com,Alexandru.Tarcan@endava.com,Presenter
+Calin Ciobanu,"6/26/25, 1:54:18 PM","6/26/25, 3:59:03 PM",2h 4m 45s,Calin.Ciobanu@endava.com,Calin.Ciobanu@endava.com,Presenter
+Constantin Voicu,"6/26/25, 1:54:23 PM","6/26/25, 3:59:37 PM",2h 5m 13s,Constantin.Voicu@endava.com,Constantin.Voicu@endava.com,Presenter
+Emma Simina Muresan,"6/26/25, 1:54:25 PM","6/26/25, 3:59:34 PM",2h 5m 8s,Emma-Simina.Muresan@endava.com,Emma-Simina.Muresan@endava.com,Presenter
+Emanuela Lupancu,"6/26/25, 1:54:28 PM","6/26/25, 4:01:32 PM",2h 7m 4s,Emanuela.Lupancu@endava.com,Emanuela.Lupancu@endava.com,Presenter
+Maria Madalina Olaru,"6/26/25, 1:54:33 PM","6/26/25, 3:59:22 PM",2h 4m 48s,Maria-Madalina.Olaru@endava.com,Maria-Madalina.Olaru@endava.com,Presenter
+Cosmin Felecanu,"6/26/25, 1:54:35 PM","6/26/25, 3:58:55 PM",2h 4m 19s,Cosmin.Felecanu@endava.com,Cosmin.Felecanu@endava.com,Presenter
+Mirela-Magdalena Catrina,"6/26/25, 1:54:36 PM","6/26/25, 3:59:08 PM",2h 4m 31s,Mirela-Magdalena.Catrina@endava.com,Mirela-Magdalena.Catrina@endava.com,Presenter
+Gabriela Casandra Pitu,"6/26/25, 1:54:36 PM","6/26/25, 3:59:24 PM",2h 4m 47s,Gabriela-Casandra.Pitu@endava.com,Gabriela-Casandra.Pitu@endava.com,Presenter
+Andrei George Avram,"6/26/25, 1:54:37 PM","6/26/25, 3:56:31 PM",2h 1m 54s,Andrei-George.Avram@endava.com,Andrei-George.Avram@endava.com,Presenter
+Sanda Dobrenco,"6/26/25, 1:54:40 PM","6/26/25, 3:58:12 PM",2h 3m 32s,Sanda.Dobrenco@endava.com,Sanda.Dobrenco@endava.com,Presenter
+Andrei Bogdan Aluculesei,"6/26/25, 1:54:46 PM","6/26/25, 3:59:42 PM",2h 4m 56s,Andrei-Bogdan.Aluculesei@endava.com,Andrei-Bogdan.Aluculesei@endava.com,Presenter
+Alexandra Zamfir,"6/26/25, 1:54:49 PM","6/26/25, 3:58:35 PM",2h 3m 46s,Alexandra.Zamfir@endava.com,Alexandra.Zamfir@endava.com,Presenter
+Mircea Stefan Pop,"6/26/25, 1:54:49 PM","6/26/25, 3:25:07 PM",1h 30m 18s,Mircea-Stefan.Pop@endava.com,Mircea-Stefan.Pop@endava.com,Presenter
+George Patrasc,"6/26/25, 1:54:51 PM","6/26/25, 3:58:39 PM",2h 3m 48s,George.Patrasc@endava.com,George.Patrasc@endava.com,Presenter
+Bogdan Ionut Tibuleac,"6/26/25, 1:54:54 PM","6/26/25, 3:59:35 PM",2h 4m 40s,Bogdan-Ionut.Tibuleac@endava.com,Bogdan-Ionut.Tibuleac@endava.com,Presenter
+Dumitru Andrei Iroftei,"6/26/25, 1:54:56 PM","6/26/25, 3:58:37 PM",2h 48s,Dumitru-Andrei.Iroftei@endava.com,Dumitru-Andrei.Iroftei@endava.com,Presenter
+Paul Valentin Vela,"6/26/25, 1:55:07 PM","6/26/25, 4:20:03 PM",2h 7m 4s,Paul-Valentin.Vela@endava.com,Paul-Valentin.Vela@endava.com,Presenter
+Alexandra Elena Pitaru,"6/26/25, 1:55:11 PM","6/26/25, 4:02:02 PM",2h 6m 50s,Alexandra-Elena.Pitaru@endava.com,Alexandra-Elena.Pitaru@endava.com,Presenter
+Mihai-Alexandru Birziloiu,"6/26/25, 1:55:14 PM","6/26/25, 3:59:36 PM",2h 1m 59s,Mihai-Alexandru.Birziloiu@endava.com,Mihai-Alexandru.Birziloiu@endava.com,Presenter
+Silviu Vasilica Luta,"6/26/25, 1:55:16 PM","6/26/25, 3:57:07 PM",2h 1m 50s,Silviu-Vasilica.Luta@endava.com,Silviu-Vasilica.Luta@endava.com,Presenter
+Timotei Cristian Morar,"6/26/25, 1:55:17 PM","6/26/25, 3:56:04 PM",2h 46s,Timotei-Cristian.Morar@endava.com,Timotei-Cristian.Morar@endava.com,Presenter
+Costina Vanghele,"6/26/25, 1:55:27 PM","6/26/25, 3:46:33 PM",1h 51m 5s,Costina.Vanghele@endava.com,Costina.Vanghele@endava.com,Presenter
+Veronica Caplea,"6/26/25, 1:55:31 PM","6/26/25, 3:58:59 PM",2h 3m 28s,Veronica.Caplea@endava.com,Veronica.Caplea@endava.com,Presenter
+Radu Ioan Maris,"6/26/25, 1:55:37 PM","6/26/25, 4:00:36 PM",2h 3m 52s,Radu-Ioan.Maris@endava.com,Radu-Ioan.Maris@endava.com,Presenter
+Andreea Gabriela Pop,"6/26/25, 1:55:39 PM","6/26/25, 3:58:57 PM",2h 3m 17s,Andreea-Gabriela.Pop@endava.com,Andreea-Gabriela.Pop@endava.com,Presenter
+Daria Lupu Dima,"6/26/25, 1:55:46 PM","6/26/25, 3:22:14 PM",1h 26m 28s,Daria.Lupu@endava.com,Daria.Lupu@endava.com,Presenter
+Remus Mihai Prodan,"6/26/25, 1:55:49 PM","6/26/25, 3:59:18 PM",2h 3m 28s,Remus-Mihai.Prodan@endava.com,Remus-Mihai.Prodan@endava.com,Presenter
+George Stefan Bodogae,"6/26/25, 1:55:53 PM","6/26/25, 3:59:05 PM",2h 1m 9s,George-Stefan.Bodogae@endava.com,George-Stefan.Bodogae@endava.com,Presenter
+Rodica Elena Rosca,"6/26/25, 1:55:58 PM","6/26/25, 3:58:59 PM",2h 3m,Rodica-Elena.Rosca@endava.com,Rodica-Elena.Rosca@endava.com,Presenter
+Octavian Cojocariu,"6/26/25, 1:56:01 PM","6/26/25, 3:59:08 PM",2h 3m 7s,Octavian.Cojocariu@endava.com,Octavian.Cojocariu@endava.com,Presenter
+Beniamin Cioban,"6/26/25, 1:56:02 PM","6/26/25, 3:59:36 PM",2h 3m 33s,Beniamin.Cioban@endava.com,Beniamin.Cioban@endava.com,Presenter
+Cornel Adrian Pop,"6/26/25, 1:56:02 PM","6/26/25, 3:59:16 PM",2h 3m 13s,Cornel-Adrian.Pop@endava.com,Cornel-Adrian.Pop@endava.com,Presenter
+Rafael Ionut Stefanache,"6/26/25, 1:56:03 PM","6/26/25, 3:56:29 PM",1h 57m 50s,Rafael-Ionut.Stefanache@endava.com,Rafael-Ionut.Stefanache@endava.com,Presenter
+Andrei L Popovici,"6/26/25, 1:56:03 PM","6/26/25, 3:53:40 PM",1h 57m 36s,Andrei.Popovici2@endava.com,Andrei.Popovici2@endava.com,Presenter
+Alina Trincu,"6/26/25, 1:56:08 PM","6/26/25, 3:47:43 PM",1h 51m 35s,Alina.Trincu@endava.com,Alina.Trincu@endava.com,Presenter
+Alexandra Simona Danca,"6/26/25, 1:56:11 PM","6/26/25, 3:58:58 PM",2h 2m 47s,Alexandra-Simona.Danca@endava.com,Alexandra-Simona.Danca@endava.com,Presenter
+Andrei Tudor Mirza,"6/26/25, 1:56:14 PM","6/26/25, 3:59:33 PM",2h 3m 19s,Andrei-Tudor.Mirza@endava.com,Andrei-Tudor.Mirza@endava.com,Presenter
+Madalina Daiana Gligan,"6/26/25, 1:56:14 PM","6/26/25, 3:59:34 PM",2h 3m 20s,Madalina-Daiana.Gligan@endava.com,Madalina-Daiana.Gligan@endava.com,Presenter
+Iulia Olivia Cipleu,"6/26/25, 1:56:14 PM","6/26/25, 3:59:01 PM",2h 2m 47s,Iulia-Olivia.Cipleu@endava.com,Iulia-Olivia.Cipleu@endava.com,Presenter
+Costin Manolescu,"6/26/25, 1:56:18 PM","6/26/25, 3:59:33 PM",1h 57m 27s,Costin.Manolescu@endava.com,Costin.Manolescu@endava.com,Presenter
+Vlad Ioan Durdeu,"6/26/25, 1:56:18 PM","6/26/25, 3:59:12 PM",2h 2m 53s,Vlad-Ioan.Durdeu@endava.com,Vlad-Ioan.Durdeu@endava.com,Presenter
+Alexandru Duta,"6/26/25, 1:56:20 PM","6/26/25, 3:59:38 PM",2h 3m 18s,Alexandru.Duta2@endava.com,Alexandru.Duta2@endava.com,Presenter
+Lucian Vatamanu,"6/26/25, 1:56:20 PM","6/26/25, 3:59:35 PM",2h 3m 14s,Lucian.Vatamanu@endava.com,Lucian.Vatamanu@endava.com,Presenter
+Iulius Stefan Ambros,"6/26/25, 1:56:23 PM","6/26/25, 3:59:11 PM",2h 2m 48s,Iulius-Stefan.Ambros@endava.com,Iulius-Stefan.Ambros@endava.com,Presenter
+Sebastian Popa,"6/26/25, 1:56:23 PM","6/26/25, 3:57:59 PM",2h 1m 35s,Sebastian.Popa2@endava.com,Sebastian.Popa2@endava.com,Presenter
+Vasile Tudorel Arion,"6/26/25, 1:56:23 PM","6/26/25, 3:59:36 PM",2h 3m 13s,Tudor.Arion@endava.com,Tudor.Arion@endava.com,Presenter
+Adriana Maria Vadean,"6/26/25, 1:56:26 PM","6/26/25, 3:59:33 PM",2h 3m 6s,Adriana-Maria.Vadean@endava.com,Adriana-Maria.Vadean@endava.com,Presenter
+Vlad Andrei Groza,"6/26/25, 1:56:27 PM","6/26/25, 3:58:59 PM",2h 2m 31s,Vlad-Andrei.Groza@endava.com,Vlad-Andrei.Groza@endava.com,Presenter
+Andrei Madalin Diaconu,"6/26/25, 1:56:29 PM","6/26/25, 3:59:44 PM",2h 3m 14s,Andrei-Madalin.Diaconu@endava.com,Andrei-Madalin.Diaconu@endava.com,Presenter
+Iuliana Elena Rusu,"6/26/25, 1:56:30 PM","6/26/25, 3:59:25 PM",2h 2m 55s,Iuliana-Elena.Rusu@endava.com,Iuliana-Elena.Rusu@endava.com,Presenter
+Reka Katalin Darko,"6/26/25, 1:56:31 PM","6/26/25, 3:59:23 PM",2h 2m 52s,Reka-Katalin.Darko@endava.com,Reka-Katalin.Darko@endava.com,Presenter
+Andrei Mihnea,"6/26/25, 1:56:39 PM","6/26/25, 3:59:33 PM",2h 2m 53s,Andrei.Mihnea@endava.com,Andrei.Mihnea@endava.com,Presenter
+Teodora Maximiuc,"6/26/25, 1:56:44 PM","6/26/25, 3:59:13 PM",2h 2m 29s,Teodora.Maximiuc@endava.com,Teodora.Maximiuc@endava.com,Presenter
+Ionut Popescu,"6/26/25, 1:56:44 PM","6/26/25, 3:57:45 PM",2h 1m,Ionut.Popescu@endava.com,Ionut.Popescu@endava.com,Presenter
+Laurentiu Fratila,"6/26/25, 1:56:46 PM","6/26/25, 3:59:35 PM",2h 2m 48s,Laurentiu.Fratila@endava.com,Laurentiu.Fratila@endava.com,Presenter
+Augustin Dumitru Sasu,"6/26/25, 1:56:47 PM","6/26/25, 3:59:05 PM",2h 2m 17s,Augustin-Dumitru.Sasu@endava.com,Augustin-Dumitru.Sasu@endava.com,Presenter
+Cristian Valentin Alexa,"6/26/25, 1:56:53 PM","6/26/25, 3:59:38 PM",2h 2m 44s,Cristian-Valentin.Alexa@endava.com,Cristian-Valentin.Alexa@endava.com,Presenter
+Adina Denisa Horj,"6/26/25, 1:56:53 PM","6/26/25, 3:59:06 PM",2h 2m 12s,Adina-Denisa.Horj@endava.com,Adina-Denisa.Horj@endava.com,Presenter
+George-Catalin Ghiold,"6/26/25, 1:56:57 PM","6/26/25, 3:59:23 PM",2h 2m 26s,George-Catalin.Ghiold@endava.com,George-Catalin.Ghiold@endava.com,Presenter
+Alexandru Mirea,"6/26/25, 1:57:02 PM","6/26/25, 4:00:51 PM",1h 49m 15s,Alexandru.Mirea@endava.com,Alexandru.Mirea@endava.com,Presenter
+Andreea-Raluca Neagu,"6/26/25, 1:57:08 PM","6/26/25, 3:59:41 PM",2h 2m 32s,Andreea-Raluca.Neagu@endava.com,Andreea-Raluca.Neagu@endava.com,Presenter
+Ruben Daniel Pasca,"6/26/25, 1:57:10 PM","6/26/25, 3:59:40 PM",2h 2m 29s,Ruben-Daniel.Pasca@endava.com,Ruben-Daniel.Pasca@endava.com,Presenter
+Sebastian Cristian Sleam,"6/26/25, 1:57:14 PM","6/26/25, 3:59:05 PM",2h 1m 50s,Sebastian-Cristian.Sleam@endava.com,Sebastian-Cristian.Sleam@endava.com,Presenter
+Raul Mihai Rusu,"6/26/25, 1:57:14 PM","6/26/25, 3:59:41 PM",2h 2m 27s,Raul-Mihai.Rusu@endava.com,Raul-Mihai.Rusu@endava.com,Presenter
+Stefan Daniel Ionita,"6/26/25, 1:57:16 PM","6/26/25, 3:31:02 PM",1h 33m 45s,StefanDaniel.Ionita@endava.com,StefanDaniel.Ionita@endava.com,Presenter
+Dragos Maxim,"6/26/25, 1:57:19 PM","6/26/25, 3:59:23 PM",2h 2m 4s,Dragos.Maxim@endava.com,Dragos.Maxim@endava.com,Presenter
+Serban Marian Precup,"6/26/25, 1:57:23 PM","6/26/25, 3:59:41 PM",2h 2m 18s,Serban-Marian.Precup@endava.com,Serban-Marian.Precup@endava.com,Presenter
+Mozes Csaszar,"6/26/25, 1:57:23 PM","6/26/25, 3:59:15 PM",2h 1m 52s,Mozes.Csaszar@endava.com,Mozes.Csaszar@endava.com,Presenter
+Stefan-Daniel Ochian,"6/26/25, 1:57:23 PM","6/26/25, 3:59:39 PM",2h 2m 15s,Stefan-Daniel.Ochian@endava.com,Stefan-Daniel.Ochian@endava.com,Presenter
+Gheorghe-Cristian Terovan,"6/26/25, 1:57:23 PM","6/26/25, 3:59:16 PM",2h 1m 53s,Gheorghe-Cristian.Terovan@endava.com,Gheorghe-Cristian.Terovan@endava.com,Presenter
+Andra-Maria Petcu,"6/26/25, 1:57:32 PM","6/26/25, 3:59:36 PM",2h 2m 3s,Andra-Maria.Petcu@endava.com,Andra-Maria.Petcu@endava.com,Presenter
+Gabriel Alexandru Nedelcu,"6/26/25, 1:57:32 PM","6/26/25, 3:52:01 PM",1h 54m 28s,Gabriel-Alexandru.Nedelcu@endava.com,Gabriel-Alexandru.Nedelcu@endava.com,Presenter
+Claudiu Marinescu,"6/26/25, 1:57:36 PM","6/26/25, 3:59:23 PM",2h 1m 46s,Claudiu.Marinescu@endava.com,Claudiu.Marinescu@endava.com,Presenter
+Vasile Meghesan,"6/26/25, 1:57:39 PM","6/26/25, 3:58:53 PM",2h 1m 14s,Vasile.Meghesan@endava.com,Vasile.Meghesan@endava.com,Presenter
+Cristian Ghiuta,"6/26/25, 1:57:39 PM","6/26/25, 3:59:30 PM",2h 1m 51s,Cristian.Ghiuta@endava.com,Cristian.Ghiuta@endava.com,Presenter
+Vlad V Muresan,"6/26/25, 1:57:39 PM","6/26/25, 3:59:23 PM",2h 1m 44s,Vlad.Muresan2@endava.com,Vlad.Muresan2@endava.com,Presenter
+Eric Marian Dascalu,"6/26/25, 1:57:48 PM","6/26/25, 3:59:27 PM",2h 1m 38s,Eric-Marian.Dascalu@endava.com,Eric-Marian.Dascalu@endava.com,Presenter
+Constantin Bogdan Moga,"6/26/25, 1:57:48 PM","6/26/25, 3:59:38 PM",2h 1m 50s,Constantin-Bogdan.Moga@endava.com,Constantin-Bogdan.Moga@endava.com,Presenter
+Luigi Emanuel Arama,"6/26/25, 1:57:51 PM","6/26/25, 3:52:54 PM",1h 55m 3s,Luigi-Emanuel.Arama@endava.com,Luigi-Emanuel.Arama@endava.com,Presenter
+Ana Ciobanu,"6/26/25, 1:58:01 PM","6/26/25, 3:59:39 PM",2h 1m 37s,Ana.Ciobanu@endava.com,Ana.Ciobanu@endava.com,Presenter
+Bogdan Nicolae Cotta,"6/26/25, 1:58:01 PM","6/26/25, 3:59:21 PM",2h 1m 19s,Bogdan-Nicolae.Cotta@endava.com,Bogdan-Nicolae.Cotta@endava.com,Presenter
+Alexandru Alin Potanga,"6/26/25, 1:58:03 PM","6/26/25, 3:59:35 PM",2h 1m 32s,Alexandru-Alin.Potanga@endava.com,Alexandru-Alin.Potanga@endava.com,Presenter
+Darius Fratila,"6/26/25, 1:58:03 PM","6/26/25, 3:59:18 PM",2h 1m 15s,Darius.Fratila@endava.com,Darius.Fratila@endava.com,Presenter
+Andreea Maria Monete,"6/26/25, 1:58:05 PM","6/26/25, 3:07:32 PM",1h 9m 26s,Andreea-Maria.Monete@endava.com,Andreea-Maria.Monete@endava.com,Presenter
+Valentin Alexe,"6/26/25, 1:58:10 PM","6/26/25, 3:59:39 PM",2h 1m 28s,Valentin.Alexe@endava.com,Valentin.Alexe@endava.com,Presenter
+Andrei Alin Socoteala,"6/26/25, 1:58:12 PM","6/26/25, 3:59:16 PM",2h 1m 3s,Andrei-Alin.Socoteala@endava.com,Andrei-Alin.Socoteala@endava.com,Presenter
+Diana Cristina Mocan,"6/26/25, 1:58:14 PM","6/26/25, 3:58:59 PM",2h 44s,Diana-Cristina.Mocan@endava.com,Diana-Cristina.Mocan@endava.com,Presenter
+Alex Rares Roman,"6/26/25, 1:58:24 PM","6/26/25, 3:59:31 PM",2h 1m 6s,Alex-Rares.Roman@endava.com,Alex-Rares.Roman@endava.com,Presenter
+Dragos Badarau,"6/26/25, 1:58:25 PM","6/26/25, 3:59:29 PM",2h 1m 4s,Dragos.Badarau@endava.com,Dragos.Badarau@endava.com,Presenter
+Teodor Badarcea,"6/26/25, 1:58:27 PM","6/26/25, 3:59:15 PM",2h 47s,Teodor.Badarcea@endava.com,Teodor.Badarcea@endava.com,Presenter
+Alexandru Marian Armanu,"6/26/25, 1:58:27 PM","6/26/25, 3:58:55 PM",2h 28s,Alexandru-Marian.Armanu@endava.com,Alexandru-Marian.Armanu@endava.com,Presenter
+Eduard George Stan,"6/26/25, 1:58:34 PM","6/26/25, 3:59:27 PM",1h 24m,Eduard-George.Stan@endava.com,Eduard-George.Stan@endava.com,Presenter
+Daniel-Ionel Beg,"6/26/25, 1:58:35 PM","6/26/25, 3:41:21 PM",1h 42m 45s,Daniel-Ionel.Beg@endava.com,Daniel-Ionel.Beg@endava.com,Presenter
+Laszlo Carlos Fodor,"6/26/25, 1:58:37 PM","6/26/25, 3:16:51 PM",1h 18m 14s,Laszlo-Carlos.Fodor@endava.com,Laszlo-Carlos.Fodor@endava.com,Presenter
+Alexandru Cinipa,"6/26/25, 1:58:39 PM","6/26/25, 4:00:36 PM",2h 1m 56s,Alexandru.Cinipa@endava.com,Alexandru.Cinipa@endava.com,Presenter
+Catalin George Adrian Otet,"6/26/25, 1:58:41 PM","6/26/25, 3:59:38 PM",2h 57s,Catalin-George-Adrian.Otet@endava.com,Catalin-George-Adrian.Otet@endava.com,Presenter
+Camelia Stoica,"6/26/25, 1:58:41 PM","6/26/25, 3:59:44 PM",2h 1m 2s,Camelia.Stoica@endava.com,Camelia.Stoica@endava.com,Presenter
+Rares Dascalu,"6/26/25, 1:58:41 PM","6/26/25, 3:42:18 PM",1h 43m 37s,Rares.Dascalu@endava.com,Rares.Dascalu@endava.com,Presenter
+Mihai Alexandru Ionel,"6/26/25, 1:58:48 PM","6/26/25, 3:59:36 PM",2h 48s,Mihai-Alexandru.Ionel@endava.com,Mihai-Alexandru.Ionel@endava.com,Presenter
+Mihnea-Alexandru Pele,"6/26/25, 1:58:48 PM","6/26/25, 3:58:59 PM",2h 11s,Mihnea-Alexandru.Pele@endava.com,Mihnea-Alexandru.Pele@endava.com,Presenter
+Emanuel Luculescu,"6/26/25, 1:58:52 PM","6/26/25, 3:59:27 PM",2h 35s,Emanuel.Luculescu@endava.com,Emanuel.Luculescu@endava.com,Presenter
+Alexandru Panainte,"6/26/25, 1:58:52 PM","6/26/25, 3:59:15 PM",2h 22s,Alexandru.Panainte@endava.com,Alexandru.Panainte@endava.com,Presenter
+Tudor Mihai Iakkel,"6/26/25, 1:58:53 PM","6/26/25, 3:59:03 PM",2h 9s,Tudor-Mihai.Iakkel@endava.com,Tudor-Mihai.Iakkel@endava.com,Presenter
+David Postolea,"6/26/25, 1:58:54 PM","6/26/25, 3:21:52 PM",1h 22m 57s,David.Postolea@endava.com,David.Postolea@endava.com,Presenter
+Robert Negre,"6/26/25, 1:58:54 PM","6/26/25, 3:59:52 PM",2h 57s,Robert.Negre@endava.com,Robert.Negre@endava.com,Presenter
+Daria Alexia Irimie,"6/26/25, 1:58:57 PM","6/26/25, 4:00:20 PM",2h 1m 23s,Daria-Alexia.Irimie@endava.com,Daria-Alexia.Irimie@endava.com,Presenter
+Vlad Cristian Brinzas,"6/26/25, 1:58:57 PM","6/26/25, 3:59:01 PM",2h 4s,Vlad-Cristian.Brinzas@endava.com,Vlad-Cristian.Brinzas@endava.com,Presenter
+Mihnea Sebastian Ilie Encean,"6/26/25, 1:58:59 PM","6/26/25, 3:58:59 PM",1h 59m 59s,Mihnea-Sebastian-Ilie.Encean@endava.com,Mihnea-Sebastian-Ilie.Encean@endava.com,Presenter
+Luisa Yi Qing Yang,"6/26/25, 1:58:59 PM","6/26/25, 3:58:57 PM",1h 59m 58s,Luisa-Yi-Qing.Yang@endava.com,Luisa-Yi-Qing.Yang@endava.com,Presenter
+Miruna Curduman,"6/26/25, 1:59:01 PM","6/26/25, 3:59:35 PM",2h 33s,Miruna.Curduman@endava.com,Miruna.Curduman@endava.com,Presenter
+Ioana Marc,"6/26/25, 1:59:07 PM","6/26/25, 3:59:22 PM",2h 15s,Ioana.Marc2@endava.com,Ioana.Marc2@endava.com,Presenter
+Rafael Andries,"6/26/25, 1:59:09 PM","6/26/25, 3:59:45 PM",1h 56m 3s,Rafael.Andries@endava.com,Rafael.Andries@endava.com,Presenter
+Robert Erno Eminovici,"6/26/25, 1:59:10 PM","6/26/25, 3:59:04 PM",1h 42m 39s,Robert-Erno.Eminovici@endava.com,Robert-Erno.Eminovici@endava.com,Presenter
+Andrei Alexandru Gheorghe,"6/26/25, 1:59:11 PM","6/26/25, 3:59:38 PM",2h 27s,Andrei-Alexandru.Gheorghe@endava.com,Andrei-Alexandru.Gheorghe@endava.com,Presenter
+Vlad Baranceanu,"6/26/25, 1:59:13 PM","6/26/25, 2:49:10 PM",49m 57s,Vlad.Baranceanu@endava.com,Vlad.Baranceanu@endava.com,Presenter
+Darius Dinu,"6/26/25, 1:59:17 PM","6/26/25, 3:59:37 PM",2h 19s,Darius.Dinu@endava.com,Darius.Dinu@endava.com,Presenter
+Denis-Alexandru Antonescu,"6/26/25, 1:59:19 PM","6/26/25, 3:48:11 PM",1h 48m 52s,Denis-Alexandru.Antonescu@endava.com,Denis-Alexandru.Antonescu@endava.com,Presenter
+Daniel Antoniu Dumitru,"6/26/25, 1:59:19 PM","6/26/25, 3:59:38 PM",2h 19s,Daniel-Antoniu.Dumitru@endava.com,Daniel-Antoniu.Dumitru@endava.com,Presenter
+Alin Constantin Florescu,"6/26/25, 1:59:20 PM","6/26/25, 3:59:40 PM",2h 19s,Alin-Constantin.Florescu@endava.com,Alin-Constantin.Florescu@endava.com,Presenter
+Alessia-Elena Rados,"6/26/25, 1:59:20 PM","6/26/25, 3:59:30 PM",2h 10s,Alessia-Elena.Rados@endava.com,Alessia-Elena.Rados@endava.com,Presenter
+Darius-Cristian Gherle,"6/26/25, 1:59:24 PM","6/26/25, 3:58:59 PM",1h 59m 35s,Darius-Cristian.Gherle@endava.com,Darius-Cristian.Gherle@endava.com,Presenter
+Ionut Birsan,"6/26/25, 1:59:28 PM","6/26/25, 3:59:42 PM",2h 14s,Ionut.Birsan@endava.com,Ionut.Birsan@endava.com,Presenter
+Eduard Stefan Mariniuc,"6/26/25, 1:59:28 PM","6/26/25, 3:58:24 PM",1h 58m 56s,Eduard-Stefan.Mariniuc@endava.com,Eduard-Stefan.Mariniuc@endava.com,Presenter
+Flora Balogh,"6/26/25, 1:59:32 PM","6/26/25, 3:58:59 PM",1h 59m 27s,Flora.Balogh@endava.com,Flora.Balogh@endava.com,Presenter
+Nicola-Diana Sincaru,"6/26/25, 1:59:32 PM","6/26/25, 3:59:38 PM",2h 6s,Nicola-Diana.Sincaru@endava.com,Nicola-Diana.Sincaru@endava.com,Presenter
+Nicolae Vasile Veciunca,"6/26/25, 1:59:33 PM","6/26/25, 3:59:38 PM",2h 4s,Nicolae-Vasile.Veciunca@endava.com,Nicolae-Vasile.Veciunca@endava.com,Presenter
+Gabriel Firisar,"6/26/25, 1:59:35 PM","6/26/25, 3:58:59 PM",1h 59m 24s,Gabriel.Firisar@endava.com,Gabriel.Firisar@endava.com,Presenter
+Dan Teodor Buzoianu,"6/26/25, 1:59:36 PM","6/26/25, 3:59:18 PM",1h 59m 42s,Dan-Teodor.Buzoianu@endava.com,Dan-Teodor.Buzoianu@endava.com,Presenter
+George Iulian Stoian,"6/26/25, 1:59:36 PM","6/26/25, 3:58:58 PM",1h 59m 21s,George-Iulian.Stoian@endava.com,George-Iulian.Stoian@endava.com,Presenter
+Zoltan Balint,"6/26/25, 1:59:39 PM","6/26/25, 3:50:18 PM",1h 50m 39s,Zoltan.Balint2@endava.com,Zoltan.Balint2@endava.com,Presenter
+Anca Elena Ilie,"6/26/25, 1:59:40 PM","6/26/25, 3:59:26 PM",1h 59m 45s,Anca-Elena.Ilie@endava.com,Anca-Elena.Ilie@endava.com,Presenter
+Iustin-Mihai Stanciu,"6/26/25, 1:59:41 PM","6/26/25, 3:57:51 PM",1h 58m 9s,Iustin-Mihai.Stanciu@endava.com,Iustin-Mihai.Stanciu@endava.com,Presenter
+Patricia Costras,"6/26/25, 1:59:41 PM","6/26/25, 3:59:11 PM",1h 59m 29s,Patricia.Costras@endava.com,Patricia.Costras@endava.com,Presenter
+Robert Catalin Franciuc,"6/26/25, 1:59:41 PM","6/26/25, 3:59:50 PM",2h 9s,Robert-Catalin.Franciuc@endava.com,Robert-Catalin.Franciuc@endava.com,Presenter
+Stefan-Claudiu Bulintis,"6/26/25, 1:59:42 PM","6/26/25, 3:59:03 PM",1h 59m 21s,Stefan-Claudiu.Bulintis@endava.com,Stefan-Claudiu.Bulintis@endava.com,Presenter
+Darius Margarit,"6/26/25, 1:59:45 PM","6/26/25, 3:59:42 PM",1h 59m 57s,Darius.Margarit@endava.com,Darius.Margarit@endava.com,Presenter
+Cerasela Nicola Soare,"6/26/25, 1:59:48 PM","6/26/25, 3:51:57 PM",1h 52m 8s,Cerasela-Nicola.Soare@endava.com,Cerasela-Nicola.Soare@endava.com,Presenter
+Cezara Teofana Aprofirei,"6/26/25, 1:59:48 PM","6/26/25, 3:58:26 PM",1h 58m 37s,Cezara-Teofana.Aprofirei@endava.com,Cezara-Teofana.Aprofirei@endava.com,Presenter
+Irina Vasilita,"6/26/25, 1:59:48 PM","6/26/25, 3:58:27 PM",1h 58m 38s,Irina.Vasilita@endava.com,Irina.Vasilita@endava.com,Presenter
+Robert Alexandru Badea,"6/26/25, 1:59:50 PM","6/26/25, 3:59:43 PM",1h 59m 53s,Robert-Alexandru.Badea@endava.com,Robert-Alexandru.Badea@endava.com,Presenter
+Alexandru Pestritu,"6/26/25, 1:59:51 PM","6/26/25, 3:59:16 PM",1h 59m 24s,Alexandru.Pestritu@endava.com,Alexandru.Pestritu@endava.com,Presenter
+Andrei Andries,"6/26/25, 1:59:52 PM","6/26/25, 3:58:58 PM",1h 59m 5s,Andrei.Andries@endava.com,Andrei.Andries@endava.com,Presenter
+Florina Eugenia Hategan,"6/26/25, 1:59:52 PM","6/26/25, 3:59:39 PM",1h 59m 47s,Florina---Eugenia.Hategan@endava.com,Florina---Eugenia.Hategan@endava.com,Presenter
+Denis Ivan,"6/26/25, 1:59:54 PM","6/26/25, 4:04:05 PM",1h 59m 31s,Denis.Ivan@endava.com,Denis.Ivan@endava.com,Presenter
+Andreea Marina Son,"6/26/25, 1:59:54 PM","6/26/25, 3:22:06 PM",1h 22m 11s,Andreea-Marina.Son@endava.com,Andreea-Marina.Son@endava.com,Presenter
+Oana-Maria Danciu,"6/26/25, 1:59:57 PM","6/26/25, 3:59:01 PM",1h 59m 3s,Oana-Maria.Danciu@endava.com,Oana-Maria.Danciu@endava.com,Presenter
+Tiberiu Iatan,"6/26/25, 1:59:57 PM","6/26/25, 3:50:21 PM",1h 50m 23s,Tiberiu.Iatan@endava.com,Tiberiu.Iatan@endava.com,Presenter
+Rares Stefan Cazan,"6/26/25, 1:59:59 PM","6/26/25, 3:59:34 PM",1h 54m 27s,Rares-Stefan.Cazan@endava.com,Rares-Stefan.Cazan@endava.com,Presenter
+Alexandru Catrinescu,"6/26/25, 1:59:59 PM","6/26/25, 3:59:38 PM",1h 59m 39s,Alexandru.Catrinescu@endava.com,Alexandru.Catrinescu@endava.com,Presenter
+Andrei Ionascu,"6/26/25, 1:59:59 PM","6/26/25, 3:30:48 PM",1h 30m 49s,Andrei.Ionascu@endava.com,Andrei.Ionascu@endava.com,Presenter
+Delia Tudor,"6/26/25, 2:00:02 PM","6/26/25, 3:59:30 PM",1h 54m 58s,Delia.Tudor@endava.com,Delia.Tudor@endava.com,Presenter
+Mihai Cristian Tabarcea,"6/26/25, 2:00:03 PM","6/26/25, 3:59:27 PM",1h 59m 23s,Mihai-Cristian.Tabarcea@endava.com,Mihai-Cristian.Tabarcea@endava.com,Presenter
+Adrian Vasile Vladescu,"6/26/25, 2:00:05 PM","6/26/25, 4:01:36 PM",2h 1m 30s,Adrian-Vasile.Vladescu@endava.com,Adrian-Vasile.Vladescu@endava.com,Presenter
+Alexandru Toma,"6/26/25, 2:00:09 PM","6/26/25, 4:00:19 PM",2h 10s,Alexandru.Toma@endava.com,Alexandru.Toma@endava.com,Presenter
+Tiberiu Gabriel Suditu,"6/26/25, 2:00:09 PM","6/26/25, 3:59:50 PM",1h 59m 40s,Tiberiu-Gabriel.Suditu@endava.com,Tiberiu-Gabriel.Suditu@endava.com,Presenter
+Matei Micu,"6/26/25, 2:00:10 PM","6/26/25, 3:48:43 PM",1h 48m 32s,Matei-Mihai.Micu@endava.com,Matei-Mihai.Micu@endava.com,Presenter
+Tudor Gabriel Pascaru,"6/26/25, 2:00:10 PM","6/26/25, 3:59:38 PM",1h 59m 27s,Tudor-Gabriel.Pascaru@endava.com,Tudor-Gabriel.Pascaru@endava.com,Presenter
+Angel David Palihovici,"6/26/25, 2:00:11 PM","6/26/25, 3:37:55 PM",1h 30m 45s,Angel-David.Palihovici@endava.com,Angel-David.Palihovici@endava.com,Presenter
+Vlad Badulescu,"6/26/25, 2:00:12 PM","6/26/25, 3:59:34 PM",1h 59m 21s,Vlad.Badulescu@endava.com,Vlad.Badulescu@endava.com,Presenter
+Razvan Niculae,"6/26/25, 2:00:13 PM","6/26/25, 3:59:36 PM",1h 49m 15s,razvan.niculae@endava.com,razvan.niculae@endava.com,Presenter
+Robert Cristian,"6/26/25, 2:00:16 PM","6/26/25, 4:20:06 PM",1h 59m 31s,Robert.Cristian@endava.com,Robert.Cristian@endava.com,Presenter
+Razvan Azoitei,"6/26/25, 2:00:16 PM","6/26/25, 3:19:44 PM",1h 19m 27s,Razvan.Azoitei@endava.com,Razvan.Azoitei@endava.com,Presenter
+Filip Craciun,"6/26/25, 2:00:17 PM","6/26/25, 3:59:22 PM",1h 59m 4s,Filip.Craciun@endava.com,Filip.Craciun@endava.com,Presenter
+Andrei Vataselu,"6/26/25, 2:00:20 PM","6/26/25, 3:58:52 PM",1h 58m 32s,Andrei.Vataselu@endava.com,Andrei.Vataselu@endava.com,Presenter
+Sabin Chirila,"6/26/25, 2:00:20 PM","6/26/25, 3:58:53 PM",1h 58m 33s,Sabin.Chirila@endava.com,Sabin.Chirila@endava.com,Presenter
+Bogdan Gargu,"6/26/25, 2:00:21 PM","6/26/25, 3:59:45 PM",1h 59m 24s,Bogdan.Gargu@endava.com,Bogdan.Gargu@endava.com,Presenter
+Denis-Mihai Mateas,"6/26/25, 2:00:21 PM","6/26/25, 3:59:19 PM",1h 58m 57s,Denis-Mihai.Mateas@endava.com,Denis-Mihai.Mateas@endava.com,Presenter
+Rares Alexandru Iancu,"6/26/25, 2:00:24 PM","6/26/25, 3:44:56 PM",1h 44m 31s,Rares-Alexandru.Iancu@endava.com,Rares-Alexandru.Iancu@endava.com,Presenter
+Cristiana Ioana Apastinei,"6/26/25, 2:00:24 PM","6/26/25, 3:59:00 PM",1h 58m 35s,Cristiana-Ioana.Apastinei@endava.com,Cristiana-Ioana.Apastinei@endava.com,Presenter
+Andrei Margelatu,"6/26/25, 2:00:26 PM","6/26/25, 3:59:37 PM",1h 59m 10s,Andrei.Margelatu@endava.com,Andrei.Margelatu@endava.com,Presenter
+Rares Ciprian Balan,"6/26/25, 2:00:26 PM","6/26/25, 3:49:35 PM",1h 49m 9s,Rares-Ciprian.Balan@endava.com,Rares-Ciprian.Balan@endava.com,Presenter
+Manuel Lazar,"6/26/25, 2:00:27 PM","6/26/25, 3:58:55 PM",1h 58m 28s,Manuel.Lazar@endava.com,Manuel.Lazar@endava.com,Presenter
+Fabian Iordache,"6/26/25, 2:00:28 PM","6/26/25, 3:59:38 PM",1h 59m 9s,Fabian.Iordache@endava.com,Fabian.Iordache@endava.com,Presenter
+Theodor Cristian Gheorghe,"6/26/25, 2:00:30 PM","6/26/25, 3:59:36 PM",1h 54m 17s,Theodor-Cristian.Gheorghe@endava.com,Theodor-Cristian.Gheorghe@endava.com,Presenter
+Armin Andrei Chanchian,"6/26/25, 2:00:31 PM","6/26/25, 3:59:39 PM",1h 59m 7s,Armin-Andrei.Chanchian@endava.com,Armin-Andrei.Chanchian@endava.com,Presenter
+George Andrei Necula,"6/26/25, 2:00:34 PM","6/26/25, 3:59:43 PM",1h 59m 8s,George-Andrei.Necula@endava.com,George-Andrei.Necula@endava.com,Presenter
+Stefan Nicolae Gheorghiu,"6/26/25, 2:00:35 PM","6/26/25, 3:59:25 PM",1h 23m 30s,Stefan-Nicolae.Gheorghiu@endava.com,Stefan-Nicolae.Gheorghiu@endava.com,Presenter
+Mihai Negrea,"6/26/25, 2:00:40 PM","6/26/25, 4:15:45 PM",1h 58m 22s,Mihai.Negrea@endava.com,Mihai.Negrea@endava.com,Presenter
+Maria Mihaela Bradea,"6/26/25, 2:00:45 PM","6/26/25, 3:58:58 PM",1h 58m 12s,Maria-Mihaela.Bradea@endava.com,Maria-Mihaela.Bradea@endava.com,Presenter
+Ioana Alexa,"6/26/25, 2:00:47 PM","6/26/25, 3:59:43 PM",1h 58m 56s,Ioana.Alexa@endava.com,Ioana.Alexa@endava.com,Presenter
+Matei Tatar,"6/26/25, 2:00:48 PM","6/26/25, 3:59:49 PM",1h 50m 40s,Matei.Tatar@endava.com,Matei.Tatar@endava.com,Presenter
+Octavian Paul Ilies,"6/26/25, 2:00:51 PM","6/26/25, 3:58:55 PM",1h 58m 4s,Octavian-Paul.Ilies@endava.com,Octavian-Paul.Ilies@endava.com,Presenter
+Adrian Matean,"6/26/25, 2:00:53 PM","6/26/25, 2:03:35 PM",2m 42s,Adrian.Matean@endava.com,Adrian.Matean@endava.com,Presenter
+Mihai Maciuc,"6/26/25, 2:00:53 PM","6/26/25, 3:59:27 PM",1h 58m 34s,Mihai.Maciuc@endava.com,Mihai.Maciuc@endava.com,Presenter
+Mariana Ionela Muntian,"6/26/25, 2:00:55 PM","6/26/25, 3:59:08 PM",1h 53m 14s,Mariana-Ionela.Muntian@endava.com,Mariana-Ionela.Muntian@endava.com,Presenter
+Felix Cosmin Orga,"6/26/25, 2:00:57 PM","6/26/25, 3:59:03 PM",1h 58m 5s,Felix-Cosmin.Orga@endava.com,Felix-Cosmin.Orga@endava.com,Presenter
+Silviu Mihail Pavel,"6/26/25, 2:00:58 PM","6/26/25, 3:46:20 PM",1h 45m 21s,Silviu-Mihail.Pavel@endava.com,Silviu-Mihail.Pavel@endava.com,Presenter
+Luka Popovici,"6/26/25, 2:01:00 PM","6/26/25, 3:58:55 PM",1h 57m 55s,Luka.Popovici@endava.com,Luka.Popovici@endava.com,Presenter
+Maria-Ioana Fuerea,"6/26/25, 2:01:00 PM","6/26/25, 3:58:12 PM",1h 57m 12s,Maria-Ioana.Fuerea@endava.com,Maria-Ioana.Fuerea@endava.com,Presenter
+Alexandru Munteanu,"6/26/25, 2:01:01 PM","6/26/25, 4:02:36 PM",2h 1m 34s,Alexandru.Munteanu@endava.com,Alexandru.Munteanu@endava.com,Presenter
+Laura Andrada Ciobanu,"6/26/25, 2:01:03 PM","6/26/25, 3:59:01 PM",1h 46m 39s,Laura-Andrada.Ciobanu@endava.com,Laura-Andrada.Ciobanu@endava.com,Presenter
+Florin Nita,"6/26/25, 2:01:03 PM","6/26/25, 3:59:35 PM",1h 58m 31s,Florin.Nita@endava.com,Florin.Nita@endava.com,Presenter
+Ana Stefania Serbanoiu,"6/26/25, 2:01:03 PM","6/26/25, 3:59:27 PM",1h 58m 23s,Ana-Stefania.Serbanoiu@endava.com,Ana-Stefania.Serbanoiu@endava.com,Presenter
+Robert-Cosmin Tudorache,"6/26/25, 2:01:12 PM","6/26/25, 3:59:09 PM",1h 57m 57s,Robert-Cosmin.Tudorache@endava.com,Robert-Cosmin.Tudorache@endava.com,Presenter
+Sabin Andrei Popa,"6/26/25, 2:01:18 PM","6/26/25, 3:44:59 PM",1h 43m 40s,Sabin-Andrei.Popa@endava.com,Sabin-Andrei.Popa@endava.com,Presenter
+Rares Gabriel Margarint,"6/26/25, 2:01:21 PM","6/26/25, 3:58:56 PM",1h 57m 35s,Rares-Gabriel.Margarint@endava.com,Rares-Gabriel.Margarint@endava.com,Presenter
+Alexandru Bardasu,"6/26/25, 2:01:23 PM","6/26/25, 3:59:04 PM",1h 57m 41s,Alexandru.Bardasu@endava.com,Alexandru.Bardasu@endava.com,Presenter
+Madalina Birtu,"6/26/25, 2:01:29 PM","6/26/25, 3:59:36 PM",1h 58m 7s,Madalina.Birtu@endava.com,Madalina.Birtu@endava.com,Presenter
+Daniela Munteanu,"6/26/25, 2:01:29 PM","6/26/25, 3:59:23 PM",1h 57m 54s,Daniela.Munteanu@endava.com,Daniela.Munteanu@endava.com,Presenter
+Irina Morosanu,"6/26/25, 2:01:32 PM","6/26/25, 3:59:28 PM",1h 57m 55s,Irina.Morosanu@endava.com,Irina.Morosanu@endava.com,Presenter
+Ioan Agape,"6/26/25, 2:01:33 PM","6/26/25, 3:59:26 PM",1h 57m 53s,Ioan.Agape@endava.com,Ioan.Agape@endava.com,Presenter
+Iasmina Pagu,"6/26/25, 2:01:34 PM","6/26/25, 3:59:35 PM",1h 58m,Iasmina-Andra.Pagu@endava.com,Iasmina-Andra.Pagu@endava.com,Presenter
+Alexandru Chelaru,"6/26/25, 2:01:34 PM","6/26/25, 3:59:28 PM",1h 57m 53s,Alexandru.Chelaru@endava.com,Alexandru.Chelaru@endava.com,Presenter
+Botond Ors Solyom,"6/26/25, 2:01:37 PM","6/26/25, 3:59:01 PM",1h 57m 23s,Botond-Ors.Solyom@endava.com,Botond-Ors.Solyom@endava.com,Presenter
+Polina Ciumac,"6/26/25, 2:01:41 PM","6/26/25, 3:59:37 PM",1h 57m 56s,Polina.Ciumac@endava.com,Polina.Ciumac@endava.com,Presenter
+Mihnea Amihailesei,"6/26/25, 2:01:43 PM","6/26/25, 3:58:22 PM",1h 41m 8s,Mihnea.Amihailesei@endava.com,Mihnea.Amihailesei@endava.com,Presenter
+Andreea Grecu,"6/26/25, 2:01:43 PM","6/26/25, 3:55:06 PM",1h 48m 59s,Andreea.Grecu2@endava.com,Andreea.Grecu2@endava.com,Presenter
+Daniel Kewin Chifa,"6/26/25, 2:01:45 PM","6/26/25, 3:59:05 PM",1h 57m 19s,Daniel-Kewin.Chifa@endava.com,Daniel-Kewin.Chifa@endava.com,Presenter
+Vlad-Stefan Sas,"6/26/25, 2:01:47 PM","6/26/25, 3:59:37 PM",1h 57m 50s,Vlad-Stefan.Sas@endava.com,Vlad-Stefan.Sas@endava.com,Presenter
+Denis Roca,"6/26/25, 2:01:47 PM","6/26/25, 3:59:02 PM",1h 57m 14s,Denis.Roca@endava.com,Denis.Roca@endava.com,Presenter
+Alexandru Dumitru Ionita,"6/26/25, 2:01:48 PM","6/26/25, 3:59:43 PM",1h 57m 54s,Alex.Ionita@endava.com,Alex.Ionita@endava.com,Presenter
+Ilinca Maria Popovici,"6/26/25, 2:01:48 PM","6/26/25, 3:58:59 PM",1h 57m 10s,Ilinca-Maria.Popovici@endava.com,Ilinca-Maria.Popovici@endava.com,Presenter
+Diandra Fechita,"6/26/25, 2:01:50 PM","6/26/25, 3:58:58 PM",1h 57m 7s,Diandra.Fechita@endava.com,Diandra.Fechita@endava.com,Presenter
+Adrian Visan,"6/26/25, 2:01:52 PM","6/26/25, 3:57:41 PM",1h 55m 49s,Adrian.Visan@endava.com,Adrian.Visan@endava.com,Presenter
+Iuliana Raluca Butnariu,"6/26/25, 2:01:54 PM","6/26/25, 3:59:16 PM",1h 57m 22s,Iuliana-Raluca.Butnariu@endava.com,Iuliana-Raluca.Butnariu@endava.com,Presenter
+Cornelia Cojocari,"6/26/25, 2:01:54 PM","6/26/25, 3:58:25 PM",1h 47m 14s,Cornelia.Cojocari@endava.com,Cornelia.Cojocari@endava.com,Presenter
+Sorin Cristian Miron,"6/26/25, 2:02:00 PM","6/26/25, 3:59:47 PM",1h 57m 46s,Sorin-Cristian.Miron@endava.com,Sorin-Cristian.Miron@endava.com,Presenter
+Tudor Leonte,"6/26/25, 2:02:04 PM","6/26/25, 3:59:23 PM",1h 57m 19s,Tudor.Leonte@endava.com,Tudor.Leonte@endava.com,Presenter
+Andrei Apostol,"6/26/25, 2:02:04 PM","6/26/25, 3:57:55 PM",1h 55m 51s,Andrei.Apostol@endava.com,Andrei.Apostol@endava.com,Presenter
+Patric Caliman,"6/26/25, 2:02:06 PM","6/26/25, 3:50:21 PM",1h 48m 14s,Patric.Caliman@endava.com,Patric.Caliman@endava.com,Presenter
+Andrei Tudor Grumazescu,"6/26/25, 2:02:07 PM","6/26/25, 3:58:57 PM",1h 56m 49s,Andrei-Tudor.Grumazescu@endava.com,Andrei-Tudor.Grumazescu@endava.com,Presenter
+Darius Cosmin Vararean,"6/26/25, 2:02:10 PM","6/26/25, 3:59:44 PM",1h 57m 34s,Darius-Cosmin.Vararean@endava.com,Darius-Cosmin.Vararean@endava.com,Presenter
+Mihaly Richard Teutsch,"6/26/25, 2:02:11 PM","6/26/25, 3:59:37 PM",1h 57m 25s,Mihaly-Richard.Teutsch@endava.com,Mihaly-Richard.Teutsch@endava.com,Presenter
+Alexandru Serban,"6/26/25, 2:02:16 PM","6/26/25, 3:59:20 PM",1h 57m 3s,Alexandru.Serban2@endava.com,Alexandru.Serban2@endava.com,Presenter
+Alexandru Cristian Grajdeanu,"6/26/25, 2:02:16 PM","6/26/25, 3:57:36 PM",1h 55m 19s,Alexandru-Cristian.Grajdeanu@endava.com,Alexandru-Cristian.Grajdeanu@endava.com,Presenter
+Alexandru Zosin,"6/26/25, 2:02:16 PM","6/26/25, 3:59:26 PM",1h 57m 9s,Alexandru.Zosin@endava.com,Alexandru.Zosin@endava.com,Presenter
+Raluca Roiban,"6/26/25, 2:02:22 PM","6/26/25, 3:58:39 PM",1h 56m 17s,Raluca.Roiban@endava.com,Raluca.Roiban@endava.com,Presenter
+Anca Vasilica Iacob,"6/26/25, 2:02:26 PM","6/26/25, 3:58:57 PM",1h 56m 30s,Anca-Vasilica.Iacob@endava.com,Anca-Vasilica.Iacob@endava.com,Presenter
+Csilla Boglarka Nagy,"6/26/25, 2:02:28 PM","6/26/25, 3:59:23 PM",1h 56m 55s,Csilla-Boglarka.Nagy@endava.com,Csilla-Boglarka.Nagy@endava.com,Presenter
+Serafim Uliuliuc,"6/26/25, 2:02:31 PM","6/26/25, 3:59:00 PM",1h 56m 29s,Serafim.Uliuliuc@endava.com,Serafim.Uliuliuc@endava.com,Presenter
+Denisa Lutic,"6/26/25, 2:02:32 PM","6/26/25, 3:59:21 PM",1h 56m 49s,Denisa.Lutic@endava.com,Denisa.Lutic@endava.com,Presenter
+Denisa Ibanescu,"6/26/25, 2:02:34 PM","6/26/25, 3:59:25 PM",1h 56m 50s,Denisa.Ibanescu@endava.com,Denisa.Ibanescu@endava.com,Presenter
+Stefania Diana Stirbu,"6/26/25, 2:02:39 PM","6/26/25, 3:59:27 PM",1h 56m 48s,Stefania-Diana.Stirbu@endava.com,Stefania-Diana.Stirbu@endava.com,Presenter
+Liviu Istrate,"6/26/25, 2:02:39 PM","6/26/25, 3:59:31 PM",1h 56m 52s,Liviu.Istrate2@endava.com,Liviu.Istrate2@endava.com,Presenter
+Madalina Puia,"6/26/25, 2:02:42 PM","6/26/25, 3:59:42 PM",1h 57m,Madalina.Puia@endava.com,Madalina.Puia@endava.com,Presenter
+Andreea Cacenschi,"6/26/25, 2:02:43 PM","6/26/25, 3:31:11 PM",1h 28m 27s,Andreea.Cacenschi@endava.com,Andreea.Cacenschi@endava.com,Presenter
+Aron Domokos Telegdy,"6/26/25, 2:02:47 PM","6/26/25, 3:59:01 PM",1h 56m 14s,Aron.Telegdy@endava.com,Aron.Telegdy@endava.com,Presenter
+Radu Branici,"6/26/25, 2:02:47 PM","6/26/25, 3:59:24 PM",1h 56m 37s,Radu.Branici@endava.com,Radu.Branici@endava.com,Presenter
+Alexandru Gabriel Cazan,"6/26/25, 2:02:49 PM","6/26/25, 4:00:14 PM",1h 57m 24s,Alexandru.Cazan@endava.com,Alexandru.Cazan@endava.com,Presenter
+Victor Valentin Vladulescu,"6/26/25, 2:02:53 PM","6/26/25, 3:41:05 PM",1h 26m 22s,Victor-Valentin.Vladulescu@endava.com,Victor-Valentin.Vladulescu@endava.com,Presenter
+Vlad Cojocaru,"6/26/25, 2:02:53 PM","6/26/25, 3:59:50 PM",1h 56m 57s,Vlad.Cojocaru@endava.com,Vlad.Cojocaru@endava.com,Presenter
+Mihai Alexandru Militaru,"6/26/25, 2:02:57 PM","6/26/25, 2:46:23 PM",43m 25s,Mihai-Alexandru.Militaru@endava.com,Mihai-Alexandru.Militaru@endava.com,Presenter
+Alexandru Edves,"6/26/25, 2:02:58 PM","6/26/25, 3:56:02 PM",1h 53m 3s,Alexandru.Edves@endava.com,Alexandru.Edves@endava.com,Presenter
+Denisa Maria Gorea,"6/26/25, 2:03:04 PM","6/26/25, 3:35:08 PM",1h 32m 3s,Denisa-Maria.Gorea@endava.com,Denisa-Maria.Gorea@endava.com,Presenter
+George Eduard Achiriloaei,"6/26/25, 2:03:04 PM","6/26/25, 3:58:17 PM",1h 55m 13s,George-Eduard.Achiriloaei@endava.com,George-Eduard.Achiriloaei@endava.com,Presenter
+Madalina Demian,"6/26/25, 2:03:14 PM","6/26/25, 3:59:06 PM",1h 55m 52s,Madalina.Demian@endava.com,Madalina.Demian@endava.com,Presenter
+Ioana Victoria Zinveliu,"6/26/25, 2:03:23 PM","6/26/25, 3:58:51 PM",1h 55m 28s,Ioana-Victoria.Zinveliu@endava.com,Ioana-Victoria.Zinveliu@endava.com,Presenter
+Huba Nemet,"6/26/25, 2:03:30 PM","6/26/25, 3:59:34 PM",1h 56m 3s,Huba.Nemet@endava.com,Huba.Nemet@endava.com,Presenter
+Andrei Titus Pavel,"6/26/25, 2:03:35 PM","6/26/25, 3:59:04 PM",1h 55m 28s,andrei-titus.pavel@endava.com,andrei-titus.pavel@endava.com,Presenter
+Andrada Maria Tinta,"6/26/25, 2:03:43 PM","6/26/25, 3:58:53 PM",1h 55m 10s,Andrada-Maria.Tinta@endava.com,Andrada-Maria.Tinta@endava.com,Presenter
+Stefan Cotos,"6/26/25, 2:04:04 PM","6/26/25, 3:59:24 PM",1h 55m 19s,Stefan.Cotos@endava.com,Stefan.Cotos@endava.com,Presenter
+Mihnea Daniel Popescu,"6/26/25, 2:04:14 PM","6/26/25, 3:57:20 PM",1h 53m 6s,Mihnea-Daniel.Popescu@endava.com,Mihnea-Daniel.Popescu@endava.com,Presenter
+Celia Ciurchil-Giurgiu,"6/26/25, 2:04:20 PM","6/26/25, 3:59:36 PM",1h 55m 15s,Celia.Ciurchil@endava.com,Celia.Ciurchil@endava.com,Presenter
+Daria Craciun,"6/26/25, 2:04:22 PM","6/26/25, 3:58:52 PM",1h 54m 30s,Daria.Craciun@endava.com,Daria.Craciun@endava.com,Presenter
+Raul Birsan,"6/26/25, 2:04:36 PM","6/26/25, 3:59:32 PM",1h 40m 55s,Raul.Birsan@endava.com,Raul.Birsan@endava.com,Presenter
+George Nicolae Botos,"6/26/25, 2:04:57 PM","6/26/25, 3:50:22 PM",1h 45m 25s,George-Nicolae.Botos@endava.com,George-Nicolae.Botos@endava.com,Presenter
+Marius Beschieru,"6/26/25, 2:05:27 PM","6/26/25, 3:59:23 PM",1h 44m 19s,Marius.Beschieru@endava.com,Marius.Beschieru@endava.com,Presenter
+Adina Gheorghevici,"6/26/25, 2:05:29 PM","6/26/25, 2:41:31 PM",36m 2s,Adina.Gheorghevici@endava.com,Adina.Gheorghevici@endava.com,Presenter
+Catalin Festeu,"6/26/25, 2:05:31 PM","6/26/25, 3:52:02 PM",1h 45m 6s,Catalin.Festeu@endava.com,Catalin.Festeu@endava.com,Presenter
+Ioana Alexia Popa,"6/26/25, 2:05:34 PM","6/26/25, 3:59:54 PM",1h 54m 20s,Ioana-Alexia.Popa@endava.com,Ioana-Alexia.Popa@endava.com,Presenter
+Catalin Ursu,"6/26/25, 2:06:06 PM","6/26/25, 3:41:57 PM",1h 35m 50s,Catalin.Ursu@endava.com,Catalin.Ursu@endava.com,Presenter
+Bianca Popescu,"6/26/25, 2:06:35 PM","6/26/25, 3:36:47 PM",1h 30m 11s,Bianca.Popescu@endava.com,Bianca.Popescu@endava.com,Presenter
+Alexandru Lazar,"6/26/25, 2:07:20 PM","6/26/25, 3:51:16 PM",1h 43m 55s,Alexandru.Lazar@endava.com,Alexandru.Lazar@endava.com,Presenter
+Maria Iulia Zdrenghea,"6/26/25, 2:07:58 PM","6/26/25, 3:58:58 PM",1h 51m,Maria-Iulia.Zdrenghea@endava.com,Maria-Iulia.Zdrenghea@endava.com,Presenter
+Rares Agachi,"6/26/25, 2:11:19 PM","6/26/25, 2:52:00 PM",40m 40s,Rares.Agachi@endava.com,Rares.Agachi@endava.com,Presenter
+Alin Avram,"6/26/25, 2:12:57 PM","6/26/25, 3:23:14 PM",1h 10m 16s,Alin.Avram@endava.com,Alin.Avram@endava.com,Presenter
+Stefan Gabriel Verde,"6/26/25, 2:18:45 PM","6/26/25, 3:20:36 PM",59m 53s,Stefan-Gabriel.Verde@endava.com,Stefan-Gabriel.Verde@endava.com,Presenter
+Laura Rusanescu,"6/26/25, 2:33:43 PM","6/26/25, 3:58:56 PM",1h 25m 12s,Laura.Rusanescu@endava.com,Laura.Rusanescu@endava.com,Presenter
+Cosmin Chirazi,"6/26/25, 2:35:27 PM","6/26/25, 3:15:52 PM",40m 24s,Cosmin.Chirazi@endava.com,Cosmin.Chirazi@endava.com,Presenter
+Stefan Stescu,"6/26/25, 2:50:10 PM","6/26/25, 3:59:19 PM",1h 9m 9s,Stefan.Stescu@endava.com,Stefan.Stescu@endava.com,Presenter
+Cosmin Adrian Neamtiu,"6/26/25, 3:03:02 PM","6/26/25, 3:24:23 PM",21m 21s,Cosmin-Adrian.Neamtiu@endava.com,Cosmin-Adrian.Neamtiu@endava.com,Presenter
+,,,,,,
+3. In-Meeting Activities,,,,,,
+Name,Join Time,Leave Time,Duration,Email,Role,
+Alice Tache,"6/26/25, 1:51:19 PM","6/26/25, 1:52:19 PM",59s,Alice.Tache@endava.com,Organizer,
+Alice Tache,"6/26/25, 1:55:29 PM","6/26/25, 4:00:30 PM",2h 5m 1s,Alice.Tache@endava.com,Organizer,
+Virgil Cimpean,"6/26/25, 1:47:54 PM","6/26/25, 3:59:27 PM",2h 11m 33s,Virgil.Cimpean@endava.com,Presenter,
+Ferdinand Alexandru Cabat,"6/26/25, 1:48:02 PM","6/26/25, 3:59:22 PM",2h 11m 19s,Ferdinand-Alexandru.Cabat@endava.com,Presenter,
+Stefan Liute,"6/26/25, 1:48:02 PM","6/26/25, 3:59:46 PM",2h 11m 44s,Stefan.Liute@endava.com,Presenter,
+Vlad Marian Pitariu,"6/26/25, 1:48:03 PM","6/26/25, 1:48:04 PM",,Vlad-Marian.Pitariu@endava.com,Presenter,
+Vlad Marian Pitariu,"6/26/25, 2:02:56 PM","6/26/25, 3:53:07 PM",1h 50m 10s,Vlad-Marian.Pitariu@endava.com,Presenter,
+Simona Boicu,"6/26/25, 1:48:06 PM","6/26/25, 3:59:35 PM",2h 11m 29s,Simona.Boicu@endava.com,Presenter,
+Rares Anton Brezeanu,"6/26/25, 1:48:11 PM","6/26/25, 3:16:18 PM",1h 28m 6s,Rares-Anton.Brezeanu@endava.com,Presenter,
+Rares Anton Brezeanu,"6/26/25, 3:25:06 PM","6/26/25, 3:38:19 PM",13m 13s,Rares-Anton.Brezeanu@endava.com,Presenter,
+Vlad Muresan,"6/26/25, 1:48:37 PM","6/26/25, 3:59:27 PM",2h 10m 50s,Vlad.Muresan3@endava.com,Presenter,
+Bogdan Patrania,"6/26/25, 1:48:40 PM","6/26/25, 1:50:38 PM",1m 58s,Bogdan.Patrania@endava.com,Presenter,
+Bogdan Patrania,"6/26/25, 2:00:53 PM","6/26/25, 3:59:23 PM",1h 58m 30s,Bogdan.Patrania@endava.com,Presenter,
+Razvan Petru Leonte,"6/26/25, 1:48:40 PM","6/26/25, 3:59:16 PM",2h 10m 36s,Razvan-Petru.Leonte@endava.com,Presenter,
+Daniela Maria Pascan,"6/26/25, 1:48:41 PM","6/26/25, 1:49:33 PM",51s,Daniela-Maria.Pascan@endava.com,Presenter,
+Daniela Maria Pascan,"6/26/25, 1:52:05 PM","6/26/25, 1:52:06 PM",1s,Daniela-Maria.Pascan@endava.com,Presenter,
+Daniela Maria Pascan,"6/26/25, 1:54:27 PM","6/26/25, 3:59:07 PM",2h 4m 39s,Daniela-Maria.Pascan@endava.com,Presenter,
+Cosmin-Nicusor Brumariu,"6/26/25, 1:48:50 PM","6/26/25, 3:59:36 PM",2h 10m 45s,Cosmin-Nicusor.Brumariu@endava.com,Presenter,
+Rares Muresan,"6/26/25, 1:49:17 PM","6/26/25, 4:20:05 PM",2h 30m 47s,Rares.Muresan@endava.com,Presenter,
+Anton Calin Stroia,"6/26/25, 1:49:44 PM","6/26/25, 3:15:41 PM",1h 25m 57s,Anton-Calin.Stroia@endava.com,Presenter,
+Anton Calin Stroia,"6/26/25, 3:21:51 PM","6/26/25, 3:59:00 PM",37m 8s,Anton-Calin.Stroia@endava.com,Presenter,
+Radu Nicolae,"6/26/25, 1:50:25 PM","6/26/25, 1:50:27 PM",1s,Radu-Mihai.Nicoale@endava.com,Presenter,
+Radu Nicolae,"6/26/25, 1:52:56 PM","6/26/25, 1:52:57 PM",,Radu-Mihai.Nicoale@endava.com,Presenter,
+Radu Nicolae,"6/26/25, 1:55:45 PM","6/26/25, 1:56:45 PM",59s,Radu-Mihai.Nicoale@endava.com,Presenter,
+Radu Nicolae,"6/26/25, 1:57:54 PM","6/26/25, 3:59:37 PM",2h 1m 42s,Radu-Mihai.Nicoale@endava.com,Presenter,
+Alexandru Mihai Matei,"6/26/25, 1:50:36 PM","6/26/25, 3:59:36 PM",2h 8m 59s,Alexandru-Mihai.Matei@endava.com,Presenter,
+Ionut Vlad Cira,"6/26/25, 1:50:40 PM","6/26/25, 3:59:04 PM",2h 8m 24s,Ionut-Vlad.Cira@endava.com,Presenter,
+Andreea Cront,"6/26/25, 1:50:48 PM","6/26/25, 3:43:47 PM",1h 52m 58s,Andreea.Cront@endava.com,Presenter,
+Andreea Cront,"6/26/25, 3:54:31 PM","6/26/25, 3:59:17 PM",4m 46s,Andreea.Cront@endava.com,Presenter,
+Arthur Negosanu,"6/26/25, 1:50:49 PM","6/26/25, 3:59:44 PM",2h 8m 55s,Arthur.Negosanu@endava.com,Presenter,
+Andrei-Alexandru Midus,"6/26/25, 1:51:03 PM","6/26/25, 3:59:13 PM",2h 8m 9s,Andrei-Alexandru.Midus@endava.com,Presenter,
+Carmen-Gabriela Nadragea,"6/26/25, 1:51:24 PM","6/26/25, 1:52:25 PM",1m,Carmen-Gabriela.Nadragea@endava.com,Presenter,
+Carmen-Gabriela Nadragea,"6/26/25, 1:55:08 PM","6/26/25, 3:59:36 PM",2h 4m 27s,Carmen-Gabriela.Nadragea@endava.com,Presenter,
+Rita Timea Torok,"6/26/25, 1:51:30 PM","6/26/25, 1:52:29 PM",59s,Rita-Timea.Torok@endava.com,Presenter,
+Rita Timea Torok,"6/26/25, 1:54:14 PM","6/26/25, 3:34:47 PM",1h 40m 32s,Rita-Timea.Torok@endava.com,Presenter,
+Andrei Octavian Minca,"6/26/25, 1:51:31 PM","6/26/25, 3:54:01 PM",2h 2m 30s,Andrei-Octavian.Minca@endava.com,Presenter,
+Robert-Viorel Lazarov,"6/26/25, 1:51:38 PM","6/26/25, 1:51:40 PM",1s,Robert-Viorel.Lazarov@endava.com,Presenter,
+Robert-Viorel Lazarov,"6/26/25, 1:58:59 PM","6/26/25, 3:59:37 PM",2h 37s,Robert-Viorel.Lazarov@endava.com,Presenter,
+Robert-Viorel Lazarov,"6/26/25, 4:01:59 PM","6/26/25, 4:02:03 PM",4s,Robert-Viorel.Lazarov@endava.com,Presenter,
+Robert-Viorel Lazarov,"6/26/25, 4:17:38 PM","6/26/25, 4:17:41 PM",2s,Robert-Viorel.Lazarov@endava.com,Presenter,
+Alexandru Zagan,"6/26/25, 1:51:39 PM","6/26/25, 4:00:10 PM",2h 8m 30s,Alexandru.Zagan@endava.com,Presenter,
+Razvan Dumitru,"6/26/25, 1:51:44 PM","6/26/25, 3:59:41 PM",2h 7m 57s,Razvan.Dumitru@endava.com,Presenter,
+Alexandru Topan-Farcau,"6/26/25, 1:52:00 PM","6/26/25, 3:59:05 PM",2h 7m 5s,Alexandru.Topan@endava.com,Presenter,
+Ariana Casandra Olaru,"6/26/25, 1:52:14 PM","6/26/25, 1:53:14 PM",59s,Ariana-Casandra.Olaru@endava.com,Presenter,
+Ariana Casandra Olaru,"6/26/25, 1:55:28 PM","6/26/25, 3:58:58 PM",2h 3m 29s,Ariana-Casandra.Olaru@endava.com,Presenter,
+Dragos Vatra,"6/26/25, 1:52:41 PM","6/26/25, 3:59:04 PM",2h 6m 23s,Dragos.Vatra@endava.com,Presenter,
+Marcos Dimitris Fetcu,"6/26/25, 1:52:46 PM","6/26/25, 3:46:46 PM",1h 54m,Marcos-Dimitris.Fetcu@endava.com,Presenter,
+Gabriela-Sidonia Ciontolac,"6/26/25, 1:52:53 PM","6/26/25, 3:59:41 PM",2h 6m 47s,Gabriela-Sidonia.Ciontolac@endava.com,Presenter,
+Stefan Tiberiu Paduraru,"6/26/25, 1:53:02 PM","6/26/25, 3:59:28 PM",2h 6m 26s,Stefan-Tiberiu.Paduraru@endava.com,Presenter,
+Bogdan Vasile Spilevoi,"6/26/25, 1:53:08 PM","6/26/25, 3:59:37 PM",2h 6m 29s,Bogdan-Vasile.Spilevoi@endava.com,Presenter,
+Gabriela Miruna Stan,"6/26/25, 1:53:09 PM","6/26/25, 1:54:09 PM",59s,Gabriela-Miruna.Stan@endava.com,Presenter,
+Gabriela Miruna Stan,"6/26/25, 1:58:35 PM","6/26/25, 3:59:23 PM",2h 48s,Gabriela-Miruna.Stan@endava.com,Presenter,
+Sergiu Ungureanu,"6/26/25, 1:53:15 PM","6/26/25, 3:56:13 PM",2h 2m 57s,Sergiu.Ungureanu2@endava.com,Presenter,
+Alexandru Burlica,"6/26/25, 1:53:21 PM","6/26/25, 3:59:31 PM",2h 6m 9s,Alexandru.Burlica@endava.com,Presenter,
+Radu Ioan Stoica,"6/26/25, 1:53:24 PM","6/26/25, 3:52:38 PM",1h 59m 13s,Radu-Ioan.Stoica@endava.com,Presenter,
+Lavinia Avram,"6/26/25, 1:53:31 PM","6/26/25, 3:48:47 PM",1h 55m 16s,Lavinia.Avram@endava.com,Presenter,
+Alexandru Baba,"6/26/25, 1:53:35 PM","6/26/25, 1:54:34 PM",59s,Alexandru.Baba@endava.com,Presenter,
+Alexandru Baba,"6/26/25, 1:58:05 PM","6/26/25, 3:59:41 PM",2h 1m 35s,Alexandru.Baba@endava.com,Presenter,
+Daniel Rotaru,"6/26/25, 1:53:35 PM","6/26/25, 3:59:07 PM",2h 5m 31s,Daniel.Rotaru@endava.com,Presenter,
+Adelina Patlatii,"6/26/25, 1:53:49 PM","6/26/25, 3:59:18 PM",2h 5m 28s,Adelina.Patlatii@endava.com,Presenter,
+Bianca Anamaria Chiorean,"6/26/25, 1:53:53 PM","6/26/25, 3:08:31 PM",1h 14m 38s,Bianca-Anamaria.Chiorean@endava.com,Presenter,
+Vlad Ionut Guriuc,"6/26/25, 1:53:58 PM","6/26/25, 3:56:24 PM",2h 2m 25s,Vlad-Ionut.Guriuc@endava.com,Presenter,
+Tudor Mihai,"6/26/25, 1:53:59 PM","6/26/25, 3:58:55 PM",2h 4m 55s,Tudor.Mihai@endava.com,Presenter,
+David Serban,"6/26/25, 1:54:03 PM","6/26/25, 1:54:06 PM",3s,David.Serban@endava.com,Presenter,
+David Serban,"6/26/25, 1:55:30 PM","6/26/25, 3:59:41 PM",2h 4m 10s,David.Serban@endava.com,Presenter,
+Petru Adelin Cojocaru,"6/26/25, 1:54:05 PM","6/26/25, 3:59:45 PM",2h 5m 40s,Petru-Adelin.Cojocaru@endava.com,Presenter,
+Denisa Elena Stolniceanu,"6/26/25, 1:54:10 PM","6/26/25, 2:04:16 PM",10m 6s,Denisa-Elena.Stolniceanu@endava.com,Presenter,
+Denisa Elena Stolniceanu,"6/26/25, 2:12:28 PM","6/26/25, 2:33:37 PM",21m 9s,Denisa-Elena.Stolniceanu@endava.com,Presenter,
+Denisa Elena Stolniceanu,"6/26/25, 2:41:38 PM","6/26/25, 2:45:33 PM",3m 55s,Denisa-Elena.Stolniceanu@endava.com,Presenter,
+Denisa Elena Stolniceanu,"6/26/25, 2:48:51 PM","6/26/25, 2:52:32 PM",3m 41s,Denisa-Elena.Stolniceanu@endava.com,Presenter,
+Alexandru Tarcan,"6/26/25, 1:54:11 PM","6/26/25, 3:59:46 PM",2h 5m 35s,Alexandru.Tarcan@endava.com,Presenter,
+Calin Ciobanu,"6/26/25, 1:54:18 PM","6/26/25, 3:59:03 PM",2h 4m 45s,Calin.Ciobanu@endava.com,Presenter,
+Constantin Voicu,"6/26/25, 1:54:23 PM","6/26/25, 3:59:37 PM",2h 5m 13s,Constantin.Voicu@endava.com,Presenter,
+Emma Simina Muresan,"6/26/25, 1:54:25 PM","6/26/25, 3:59:34 PM",2h 5m 8s,Emma-Simina.Muresan@endava.com,Presenter,
+Emanuela Lupancu,"6/26/25, 1:54:28 PM","6/26/25, 4:01:32 PM",2h 7m 4s,Emanuela.Lupancu@endava.com,Presenter,
+Maria Madalina Olaru,"6/26/25, 1:54:33 PM","6/26/25, 3:59:22 PM",2h 4m 48s,Maria-Madalina.Olaru@endava.com,Presenter,
+Cosmin Felecanu,"6/26/25, 1:54:35 PM","6/26/25, 3:58:55 PM",2h 4m 19s,Cosmin.Felecanu@endava.com,Presenter,
+Mirela-Magdalena Catrina,"6/26/25, 1:54:36 PM","6/26/25, 3:59:08 PM",2h 4m 31s,Mirela-Magdalena.Catrina@endava.com,Presenter,
+Gabriela Casandra Pitu,"6/26/25, 1:54:36 PM","6/26/25, 3:59:24 PM",2h 4m 47s,Gabriela-Casandra.Pitu@endava.com,Presenter,
+Andrei George Avram,"6/26/25, 1:54:37 PM","6/26/25, 3:56:31 PM",2h 1m 54s,Andrei-George.Avram@endava.com,Presenter,
+Sanda Dobrenco,"6/26/25, 1:54:40 PM","6/26/25, 3:58:12 PM",2h 3m 32s,Sanda.Dobrenco@endava.com,Presenter,
+Andrei Bogdan Aluculesei,"6/26/25, 1:54:46 PM","6/26/25, 3:59:42 PM",2h 4m 56s,Andrei-Bogdan.Aluculesei@endava.com,Presenter,
+Alexandra Zamfir,"6/26/25, 1:54:49 PM","6/26/25, 3:58:35 PM",2h 3m 46s,Alexandra.Zamfir@endava.com,Presenter,
+Mircea Stefan Pop,"6/26/25, 1:54:49 PM","6/26/25, 3:25:07 PM",1h 30m 18s,Mircea-Stefan.Pop@endava.com,Presenter,
+George Patrasc,"6/26/25, 1:54:51 PM","6/26/25, 3:58:39 PM",2h 3m 48s,George.Patrasc@endava.com,Presenter,
+Bogdan Ionut Tibuleac,"6/26/25, 1:54:54 PM","6/26/25, 3:59:35 PM",2h 4m 40s,Bogdan-Ionut.Tibuleac@endava.com,Presenter,
+Dumitru Andrei Iroftei,"6/26/25, 1:54:56 PM","6/26/25, 3:50:38 PM",1h 55m 41s,Dumitru-Andrei.Iroftei@endava.com,Presenter,
+Dumitru Andrei Iroftei,"6/26/25, 3:53:30 PM","6/26/25, 3:58:37 PM",5m 7s,Dumitru-Andrei.Iroftei@endava.com,Presenter,
+Paul Valentin Vela,"6/26/25, 1:55:07 PM","6/26/25, 3:16:27 PM",1h 21m 19s,Paul-Valentin.Vela@endava.com,Presenter,
+Paul Valentin Vela,"6/26/25, 3:34:17 PM","6/26/25, 4:20:03 PM",45m 45s,Paul-Valentin.Vela@endava.com,Presenter,
+Alexandra Elena Pitaru,"6/26/25, 1:55:11 PM","6/26/25, 4:02:02 PM",2h 6m 50s,Alexandra-Elena.Pitaru@endava.com,Presenter,
+Mihai-Alexandru Birziloiu,"6/26/25, 1:55:14 PM","6/26/25, 1:55:16 PM",1s,Mihai-Alexandru.Birziloiu@endava.com,Presenter,
+Mihai-Alexandru Birziloiu,"6/26/25, 1:57:38 PM","6/26/25, 3:59:36 PM",2h 1m 58s,Mihai-Alexandru.Birziloiu@endava.com,Presenter,
+Silviu Vasilica Luta,"6/26/25, 1:55:16 PM","6/26/25, 3:57:07 PM",2h 1m 50s,Silviu-Vasilica.Luta@endava.com,Presenter,
+Timotei Cristian Morar,"6/26/25, 1:55:17 PM","6/26/25, 3:56:04 PM",2h 46s,Timotei-Cristian.Morar@endava.com,Presenter,
+Costina Vanghele,"6/26/25, 1:55:27 PM","6/26/25, 3:46:33 PM",1h 51m 5s,Costina.Vanghele@endava.com,Presenter,
+Veronica Caplea,"6/26/25, 1:55:31 PM","6/26/25, 3:58:59 PM",2h 3m 28s,Veronica.Caplea@endava.com,Presenter,
+Radu Ioan Maris,"6/26/25, 1:55:37 PM","6/26/25, 3:59:26 PM",2h 3m 48s,Radu-Ioan.Maris@endava.com,Presenter,
+Radu Ioan Maris,"6/26/25, 4:00:31 PM","6/26/25, 4:00:36 PM",4s,Radu-Ioan.Maris@endava.com,Presenter,
+Andreea Gabriela Pop,"6/26/25, 1:55:39 PM","6/26/25, 3:58:57 PM",2h 3m 17s,Andreea-Gabriela.Pop@endava.com,Presenter,
+Daria Lupu Dima,"6/26/25, 1:55:46 PM","6/26/25, 3:22:14 PM",1h 26m 28s,Daria.Lupu@endava.com,Presenter,
+Remus Mihai Prodan,"6/26/25, 1:55:49 PM","6/26/25, 3:59:18 PM",2h 3m 28s,Remus-Mihai.Prodan@endava.com,Presenter,
+George Stefan Bodogae,"6/26/25, 1:55:53 PM","6/26/25, 1:56:53 PM",59s,George-Stefan.Bodogae@endava.com,Presenter,
+George Stefan Bodogae,"6/26/25, 1:58:54 PM","6/26/25, 3:59:05 PM",2h 10s,George-Stefan.Bodogae@endava.com,Presenter,
+Rodica Elena Rosca,"6/26/25, 1:55:58 PM","6/26/25, 3:58:59 PM",2h 3m,Rodica-Elena.Rosca@endava.com,Presenter,
+Octavian Cojocariu,"6/26/25, 1:56:01 PM","6/26/25, 3:59:08 PM",2h 3m 7s,Octavian.Cojocariu@endava.com,Presenter,
+Beniamin Cioban,"6/26/25, 1:56:02 PM","6/26/25, 3:59:36 PM",2h 3m 33s,Beniamin.Cioban@endava.com,Presenter,
+Cornel Adrian Pop,"6/26/25, 1:56:02 PM","6/26/25, 3:59:16 PM",2h 3m 13s,Cornel-Adrian.Pop@endava.com,Presenter,
+Rafael Ionut Stefanache,"6/26/25, 1:56:03 PM","6/26/25, 3:17:50 PM",1h 21m 47s,Rafael-Ionut.Stefanache@endava.com,Presenter,
+Rafael Ionut Stefanache,"6/26/25, 3:20:26 PM","6/26/25, 3:56:29 PM",36m 3s,Rafael-Ionut.Stefanache@endava.com,Presenter,
+Andrei L Popovici,"6/26/25, 1:56:03 PM","6/26/25, 3:53:40 PM",1h 57m 36s,Andrei.Popovici2@endava.com,Presenter,
+Alina Trincu,"6/26/25, 1:56:08 PM","6/26/25, 3:47:43 PM",1h 51m 35s,Alina.Trincu@endava.com,Presenter,
+Alexandra Simona Danca,"6/26/25, 1:56:11 PM","6/26/25, 3:58:58 PM",2h 2m 47s,Alexandra-Simona.Danca@endava.com,Presenter,
+Andrei Tudor Mirza,"6/26/25, 1:56:14 PM","6/26/25, 3:59:33 PM",2h 3m 19s,Andrei-Tudor.Mirza@endava.com,Presenter,
+Madalina Daiana Gligan,"6/26/25, 1:56:14 PM","6/26/25, 3:59:34 PM",2h 3m 20s,Madalina-Daiana.Gligan@endava.com,Presenter,
+Iulia Olivia Cipleu,"6/26/25, 1:56:14 PM","6/26/25, 3:59:01 PM",2h 2m 47s,Iulia-Olivia.Cipleu@endava.com,Presenter,
+Costin Manolescu,"6/26/25, 1:56:18 PM","6/26/25, 3:18:22 PM",1h 22m 4s,Costin.Manolescu@endava.com,Presenter,
+Costin Manolescu,"6/26/25, 3:24:10 PM","6/26/25, 3:59:33 PM",35m 23s,Costin.Manolescu@endava.com,Presenter,
+Vlad Ioan Durdeu,"6/26/25, 1:56:18 PM","6/26/25, 3:59:12 PM",2h 2m 53s,Vlad-Ioan.Durdeu@endava.com,Presenter,
+Alexandru Duta,"6/26/25, 1:56:20 PM","6/26/25, 3:59:38 PM",2h 3m 18s,Alexandru.Duta2@endava.com,Presenter,
+Lucian Vatamanu,"6/26/25, 1:56:20 PM","6/26/25, 3:59:35 PM",2h 3m 14s,Lucian.Vatamanu@endava.com,Presenter,
+Iulius Stefan Ambros,"6/26/25, 1:56:23 PM","6/26/25, 3:59:11 PM",2h 2m 48s,Iulius-Stefan.Ambros@endava.com,Presenter,
+Sebastian Popa,"6/26/25, 1:56:23 PM","6/26/25, 3:57:59 PM",2h 1m 35s,Sebastian.Popa2@endava.com,Presenter,
+Vasile Tudorel Arion,"6/26/25, 1:56:23 PM","6/26/25, 3:59:36 PM",2h 3m 13s,Tudor.Arion@endava.com,Presenter,
+Adriana Maria Vadean,"6/26/25, 1:56:26 PM","6/26/25, 3:59:33 PM",2h 3m 6s,Adriana-Maria.Vadean@endava.com,Presenter,
+Vlad Andrei Groza,"6/26/25, 1:56:27 PM","6/26/25, 3:58:59 PM",2h 2m 31s,Vlad-Andrei.Groza@endava.com,Presenter,
+Andrei Madalin Diaconu,"6/26/25, 1:56:29 PM","6/26/25, 3:59:44 PM",2h 3m 14s,Andrei-Madalin.Diaconu@endava.com,Presenter,
+Iuliana Elena Rusu,"6/26/25, 1:56:30 PM","6/26/25, 3:59:25 PM",2h 2m 55s,Iuliana-Elena.Rusu@endava.com,Presenter,
+Reka Katalin Darko,"6/26/25, 1:56:31 PM","6/26/25, 3:59:23 PM",2h 2m 52s,Reka-Katalin.Darko@endava.com,Presenter,
+Andrei Mihnea,"6/26/25, 1:56:39 PM","6/26/25, 3:59:33 PM",2h 2m 53s,Andrei.Mihnea@endava.com,Presenter,
+Teodora Maximiuc,"6/26/25, 1:56:44 PM","6/26/25, 3:59:13 PM",2h 2m 29s,Teodora.Maximiuc@endava.com,Presenter,
+Ionut Popescu,"6/26/25, 1:56:44 PM","6/26/25, 3:57:45 PM",2h 1m,Ionut.Popescu@endava.com,Presenter,
+Laurentiu Fratila,"6/26/25, 1:56:46 PM","6/26/25, 3:59:35 PM",2h 2m 48s,Laurentiu.Fratila@endava.com,Presenter,
+Augustin Dumitru Sasu,"6/26/25, 1:56:47 PM","6/26/25, 3:59:05 PM",2h 2m 17s,Augustin-Dumitru.Sasu@endava.com,Presenter,
+Cristian Valentin Alexa,"6/26/25, 1:56:53 PM","6/26/25, 3:59:38 PM",2h 2m 44s,Cristian-Valentin.Alexa@endava.com,Presenter,
+Adina Denisa Horj,"6/26/25, 1:56:53 PM","6/26/25, 3:59:06 PM",2h 2m 12s,Adina-Denisa.Horj@endava.com,Presenter,
+George-Catalin Ghiold,"6/26/25, 1:56:57 PM","6/26/25, 3:59:23 PM",2h 2m 26s,George-Catalin.Ghiold@endava.com,Presenter,
+Alexandru Mirea,"6/26/25, 1:57:02 PM","6/26/25, 3:35:24 PM",1h 38m 21s,Alexandru.Mirea@endava.com,Presenter,
+Alexandru Mirea,"6/26/25, 3:49:56 PM","6/26/25, 4:00:51 PM",10m 54s,Alexandru.Mirea@endava.com,Presenter,
+Andreea-Raluca Neagu,"6/26/25, 1:57:08 PM","6/26/25, 3:59:41 PM",2h 2m 32s,Andreea-Raluca.Neagu@endava.com,Presenter,
+Ruben Daniel Pasca,"6/26/25, 1:57:10 PM","6/26/25, 3:59:40 PM",2h 2m 29s,Ruben-Daniel.Pasca@endava.com,Presenter,
+Sebastian Cristian Sleam,"6/26/25, 1:57:14 PM","6/26/25, 3:59:05 PM",2h 1m 50s,Sebastian-Cristian.Sleam@endava.com,Presenter,
+Raul Mihai Rusu,"6/26/25, 1:57:14 PM","6/26/25, 3:59:41 PM",2h 2m 27s,Raul-Mihai.Rusu@endava.com,Presenter,
+Stefan Daniel Ionita,"6/26/25, 1:57:16 PM","6/26/25, 3:31:02 PM",1h 33m 45s,StefanDaniel.Ionita@endava.com,Presenter,
+Dragos Maxim,"6/26/25, 1:57:19 PM","6/26/25, 3:59:23 PM",2h 2m 4s,Dragos.Maxim@endava.com,Presenter,
+Serban Marian Precup,"6/26/25, 1:57:23 PM","6/26/25, 3:59:41 PM",2h 2m 18s,Serban-Marian.Precup@endava.com,Presenter,
+Mozes Csaszar,"6/26/25, 1:57:23 PM","6/26/25, 3:59:15 PM",2h 1m 52s,Mozes.Csaszar@endava.com,Presenter,
+Stefan-Daniel Ochian,"6/26/25, 1:57:23 PM","6/26/25, 3:59:39 PM",2h 2m 15s,Stefan-Daniel.Ochian@endava.com,Presenter,
+Gheorghe-Cristian Terovan,"6/26/25, 1:57:23 PM","6/26/25, 3:59:16 PM",2h 1m 53s,Gheorghe-Cristian.Terovan@endava.com,Presenter,
+Andra-Maria Petcu,"6/26/25, 1:57:32 PM","6/26/25, 3:59:36 PM",2h 2m 3s,Andra-Maria.Petcu@endava.com,Presenter,
+Gabriel Alexandru Nedelcu,"6/26/25, 1:57:32 PM","6/26/25, 3:52:01 PM",1h 54m 28s,Gabriel-Alexandru.Nedelcu@endava.com,Presenter,
+Claudiu Marinescu,"6/26/25, 1:57:36 PM","6/26/25, 3:59:23 PM",2h 1m 46s,Claudiu.Marinescu@endava.com,Presenter,
+Vasile Meghesan,"6/26/25, 1:57:39 PM","6/26/25, 3:58:53 PM",2h 1m 14s,Vasile.Meghesan@endava.com,Presenter,
+Cristian Ghiuta,"6/26/25, 1:57:39 PM","6/26/25, 3:59:30 PM",2h 1m 51s,Cristian.Ghiuta@endava.com,Presenter,
+Vlad V Muresan,"6/26/25, 1:57:39 PM","6/26/25, 3:59:23 PM",2h 1m 44s,Vlad.Muresan2@endava.com,Presenter,
+Eric Marian Dascalu,"6/26/25, 1:57:48 PM","6/26/25, 3:59:27 PM",2h 1m 38s,Eric-Marian.Dascalu@endava.com,Presenter,
+Constantin Bogdan Moga,"6/26/25, 1:57:48 PM","6/26/25, 3:59:38 PM",2h 1m 50s,Constantin-Bogdan.Moga@endava.com,Presenter,
+Luigi Emanuel Arama,"6/26/25, 1:57:51 PM","6/26/25, 3:52:54 PM",1h 55m 3s,Luigi-Emanuel.Arama@endava.com,Presenter,
+Ana Ciobanu,"6/26/25, 1:58:01 PM","6/26/25, 3:59:39 PM",2h 1m 37s,Ana.Ciobanu@endava.com,Presenter,
+Bogdan Nicolae Cotta,"6/26/25, 1:58:01 PM","6/26/25, 3:59:21 PM",2h 1m 19s,Bogdan-Nicolae.Cotta@endava.com,Presenter,
+Alexandru Alin Potanga,"6/26/25, 1:58:03 PM","6/26/25, 3:59:35 PM",2h 1m 32s,Alexandru-Alin.Potanga@endava.com,Presenter,
+Darius Fratila,"6/26/25, 1:58:03 PM","6/26/25, 3:59:18 PM",2h 1m 15s,Darius.Fratila@endava.com,Presenter,
+Andreea Maria Monete,"6/26/25, 1:58:05 PM","6/26/25, 3:07:32 PM",1h 9m 26s,Andreea-Maria.Monete@endava.com,Presenter,
+Valentin Alexe,"6/26/25, 1:58:10 PM","6/26/25, 3:59:39 PM",2h 1m 28s,Valentin.Alexe@endava.com,Presenter,
+Andrei Alin Socoteala,"6/26/25, 1:58:12 PM","6/26/25, 3:59:16 PM",2h 1m 3s,Andrei-Alin.Socoteala@endava.com,Presenter,
+Diana Cristina Mocan,"6/26/25, 1:58:14 PM","6/26/25, 3:58:59 PM",2h 44s,Diana-Cristina.Mocan@endava.com,Presenter,
+Alex Rares Roman,"6/26/25, 1:58:24 PM","6/26/25, 3:59:31 PM",2h 1m 6s,Alex-Rares.Roman@endava.com,Presenter,
+Dragos Badarau,"6/26/25, 1:58:25 PM","6/26/25, 3:59:29 PM",2h 1m 4s,Dragos.Badarau@endava.com,Presenter,
+Teodor Badarcea,"6/26/25, 1:58:27 PM","6/26/25, 3:59:15 PM",2h 47s,Teodor.Badarcea@endava.com,Presenter,
+Alexandru Marian Armanu,"6/26/25, 1:58:27 PM","6/26/25, 3:58:55 PM",2h 28s,Alexandru-Marian.Armanu@endava.com,Presenter,
+Eduard George Stan,"6/26/25, 1:58:34 PM","6/26/25, 3:21:05 PM",1h 22m 31s,Eduard-George.Stan@endava.com,Presenter,
+Eduard George Stan,"6/26/25, 3:57:58 PM","6/26/25, 3:59:27 PM",1m 29s,Eduard-George.Stan@endava.com,Presenter,
+Daniel-Ionel Beg,"6/26/25, 1:58:35 PM","6/26/25, 3:41:21 PM",1h 42m 45s,Daniel-Ionel.Beg@endava.com,Presenter,
+Laszlo Carlos Fodor,"6/26/25, 1:58:37 PM","6/26/25, 3:16:51 PM",1h 18m 14s,Laszlo-Carlos.Fodor@endava.com,Presenter,
+Alexandru Cinipa,"6/26/25, 1:58:39 PM","6/26/25, 4:00:36 PM",2h 1m 56s,Alexandru.Cinipa@endava.com,Presenter,
+Catalin George Adrian Otet,"6/26/25, 1:58:41 PM","6/26/25, 3:59:38 PM",2h 57s,Catalin-George-Adrian.Otet@endava.com,Presenter,
+Camelia Stoica,"6/26/25, 1:58:41 PM","6/26/25, 3:59:44 PM",2h 1m 2s,Camelia.Stoica@endava.com,Presenter,
+Rares Dascalu,"6/26/25, 1:58:41 PM","6/26/25, 3:42:18 PM",1h 43m 37s,Rares.Dascalu@endava.com,Presenter,
+Mihai Alexandru Ionel,"6/26/25, 1:58:48 PM","6/26/25, 3:59:36 PM",2h 48s,Mihai-Alexandru.Ionel@endava.com,Presenter,
+Mihnea-Alexandru Pele,"6/26/25, 1:58:48 PM","6/26/25, 3:58:59 PM",2h 11s,Mihnea-Alexandru.Pele@endava.com,Presenter,
+Emanuel Luculescu,"6/26/25, 1:58:52 PM","6/26/25, 3:59:27 PM",2h 35s,Emanuel.Luculescu@endava.com,Presenter,
+Alexandru Panainte,"6/26/25, 1:58:52 PM","6/26/25, 3:59:15 PM",2h 22s,Alexandru.Panainte@endava.com,Presenter,
+Tudor Mihai Iakkel,"6/26/25, 1:58:53 PM","6/26/25, 3:59:03 PM",2h 9s,Tudor-Mihai.Iakkel@endava.com,Presenter,
+David Postolea,"6/26/25, 1:58:54 PM","6/26/25, 3:21:52 PM",1h 22m 57s,David.Postolea@endava.com,Presenter,
+Robert Negre,"6/26/25, 1:58:54 PM","6/26/25, 3:59:52 PM",2h 57s,Robert.Negre@endava.com,Presenter,
+Daria Alexia Irimie,"6/26/25, 1:58:57 PM","6/26/25, 4:00:20 PM",2h 1m 23s,Daria-Alexia.Irimie@endava.com,Presenter,
+Vlad Cristian Brinzas,"6/26/25, 1:58:57 PM","6/26/25, 3:59:01 PM",2h 4s,Vlad-Cristian.Brinzas@endava.com,Presenter,
+Mihnea Sebastian Ilie Encean,"6/26/25, 1:58:59 PM","6/26/25, 3:58:59 PM",1h 59m 59s,Mihnea-Sebastian-Ilie.Encean@endava.com,Presenter,
+Luisa Yi Qing Yang,"6/26/25, 1:58:59 PM","6/26/25, 3:58:57 PM",1h 59m 58s,Luisa-Yi-Qing.Yang@endava.com,Presenter,
+Miruna Curduman,"6/26/25, 1:59:01 PM","6/26/25, 3:59:35 PM",2h 33s,Miruna.Curduman@endava.com,Presenter,
+Ioana Marc,"6/26/25, 1:59:07 PM","6/26/25, 3:59:22 PM",2h 15s,Ioana.Marc2@endava.com,Presenter,
+Rafael Andries,"6/26/25, 1:59:09 PM","6/26/25, 3:54:41 PM",1h 55m 32s,Rafael.Andries@endava.com,Presenter,
+Rafael Andries,"6/26/25, 3:59:13 PM","6/26/25, 3:59:45 PM",31s,Rafael.Andries@endava.com,Presenter,
+Robert Erno Eminovici,"6/26/25, 1:59:10 PM","6/26/25, 3:17:10 PM",1h 18m,Robert-Erno.Eminovici@endava.com,Presenter,
+Robert Erno Eminovici,"6/26/25, 3:34:25 PM","6/26/25, 3:59:04 PM",24m 39s,Robert-Erno.Eminovici@endava.com,Presenter,
+Andrei Alexandru Gheorghe,"6/26/25, 1:59:11 PM","6/26/25, 3:59:38 PM",2h 27s,Andrei-Alexandru.Gheorghe@endava.com,Presenter,
+Vlad Baranceanu,"6/26/25, 1:59:13 PM","6/26/25, 2:49:10 PM",49m 57s,Vlad.Baranceanu@endava.com,Presenter,
+Darius Dinu,"6/26/25, 1:59:17 PM","6/26/25, 3:59:37 PM",2h 19s,Darius.Dinu@endava.com,Presenter,
+Denis-Alexandru Antonescu,"6/26/25, 1:59:19 PM","6/26/25, 3:48:11 PM",1h 48m 52s,Denis-Alexandru.Antonescu@endava.com,Presenter,
+Daniel Antoniu Dumitru,"6/26/25, 1:59:19 PM","6/26/25, 3:59:38 PM",2h 19s,Daniel-Antoniu.Dumitru@endava.com,Presenter,
+Alin Constantin Florescu,"6/26/25, 1:59:20 PM","6/26/25, 3:59:40 PM",2h 19s,Alin-Constantin.Florescu@endava.com,Presenter,
+Alessia-Elena Rados,"6/26/25, 1:59:20 PM","6/26/25, 3:59:30 PM",2h 10s,Alessia-Elena.Rados@endava.com,Presenter,
+Darius-Cristian Gherle,"6/26/25, 1:59:24 PM","6/26/25, 3:58:59 PM",1h 59m 35s,Darius-Cristian.Gherle@endava.com,Presenter,
+Ionut Birsan,"6/26/25, 1:59:28 PM","6/26/25, 3:59:42 PM",2h 14s,Ionut.Birsan@endava.com,Presenter,
+Eduard Stefan Mariniuc,"6/26/25, 1:59:28 PM","6/26/25, 3:58:24 PM",1h 58m 56s,Eduard-Stefan.Mariniuc@endava.com,Presenter,
+Flora Balogh,"6/26/25, 1:59:32 PM","6/26/25, 3:58:59 PM",1h 59m 27s,Flora.Balogh@endava.com,Presenter,
+Nicola-Diana Sincaru,"6/26/25, 1:59:32 PM","6/26/25, 3:59:38 PM",2h 6s,Nicola-Diana.Sincaru@endava.com,Presenter,
+Nicolae Vasile Veciunca,"6/26/25, 1:59:33 PM","6/26/25, 3:59:38 PM",2h 4s,Nicolae-Vasile.Veciunca@endava.com,Presenter,
+Gabriel Firisar,"6/26/25, 1:59:35 PM","6/26/25, 3:58:59 PM",1h 59m 24s,Gabriel.Firisar@endava.com,Presenter,
+Dan Teodor Buzoianu,"6/26/25, 1:59:36 PM","6/26/25, 3:59:18 PM",1h 59m 42s,Dan-Teodor.Buzoianu@endava.com,Presenter,
+George Iulian Stoian,"6/26/25, 1:59:36 PM","6/26/25, 3:58:58 PM",1h 59m 21s,George-Iulian.Stoian@endava.com,Presenter,
+Zoltan Balint,"6/26/25, 1:59:39 PM","6/26/25, 3:50:18 PM",1h 50m 39s,Zoltan.Balint2@endava.com,Presenter,
+Anca Elena Ilie,"6/26/25, 1:59:40 PM","6/26/25, 3:59:26 PM",1h 59m 45s,Anca-Elena.Ilie@endava.com,Presenter,
+Iustin-Mihai Stanciu,"6/26/25, 1:59:41 PM","6/26/25, 3:57:51 PM",1h 58m 9s,Iustin-Mihai.Stanciu@endava.com,Presenter,
+Patricia Costras,"6/26/25, 1:59:41 PM","6/26/25, 3:59:11 PM",1h 59m 29s,Patricia.Costras@endava.com,Presenter,
+Robert Catalin Franciuc,"6/26/25, 1:59:41 PM","6/26/25, 3:59:50 PM",2h 9s,Robert-Catalin.Franciuc@endava.com,Presenter,
+Stefan-Claudiu Bulintis,"6/26/25, 1:59:42 PM","6/26/25, 3:59:03 PM",1h 59m 21s,Stefan-Claudiu.Bulintis@endava.com,Presenter,
+Darius Margarit,"6/26/25, 1:59:45 PM","6/26/25, 3:59:42 PM",1h 59m 57s,Darius.Margarit@endava.com,Presenter,
+Cerasela Nicola Soare,"6/26/25, 1:59:48 PM","6/26/25, 3:51:57 PM",1h 52m 8s,Cerasela-Nicola.Soare@endava.com,Presenter,
+Cezara Teofana Aprofirei,"6/26/25, 1:59:48 PM","6/26/25, 3:58:26 PM",1h 58m 37s,Cezara-Teofana.Aprofirei@endava.com,Presenter,
+Irina Vasilita,"6/26/25, 1:59:48 PM","6/26/25, 3:58:27 PM",1h 58m 38s,Irina.Vasilita@endava.com,Presenter,
+Robert Alexandru Badea,"6/26/25, 1:59:50 PM","6/26/25, 3:59:43 PM",1h 59m 53s,Robert-Alexandru.Badea@endava.com,Presenter,
+Alexandru Pestritu,"6/26/25, 1:59:51 PM","6/26/25, 3:59:16 PM",1h 59m 24s,Alexandru.Pestritu@endava.com,Presenter,
+Andrei Andries,"6/26/25, 1:59:52 PM","6/26/25, 3:58:58 PM",1h 59m 5s,Andrei.Andries@endava.com,Presenter,
+Florina Eugenia Hategan,"6/26/25, 1:59:52 PM","6/26/25, 3:59:39 PM",1h 59m 47s,Florina---Eugenia.Hategan@endava.com,Presenter,
+Denis Ivan,"6/26/25, 1:59:54 PM","6/26/25, 3:59:24 PM",1h 59m 30s,Denis.Ivan@endava.com,Presenter,
+Denis Ivan,"6/26/25, 4:04:03 PM","6/26/25, 4:04:05 PM",1s,Denis.Ivan@endava.com,Presenter,
+Andreea Marina Son,"6/26/25, 1:59:54 PM","6/26/25, 3:22:06 PM",1h 22m 11s,Andreea-Marina.Son@endava.com,Presenter,
+Oana-Maria Danciu,"6/26/25, 1:59:57 PM","6/26/25, 3:59:01 PM",1h 59m 3s,Oana-Maria.Danciu@endava.com,Presenter,
+Tiberiu Iatan,"6/26/25, 1:59:57 PM","6/26/25, 3:50:21 PM",1h 50m 23s,Tiberiu.Iatan@endava.com,Presenter,
+Rares Stefan Cazan,"6/26/25, 1:59:59 PM","6/26/25, 1:59:59 PM",,Rares-Stefan.Cazan@endava.com,Presenter,
+Rares Stefan Cazan,"6/26/25, 2:05:07 PM","6/26/25, 3:59:34 PM",1h 54m 27s,Rares-Stefan.Cazan@endava.com,Presenter,
+Alexandru Catrinescu,"6/26/25, 1:59:59 PM","6/26/25, 3:59:38 PM",1h 59m 39s,Alexandru.Catrinescu@endava.com,Presenter,
+Andrei Ionascu,"6/26/25, 1:59:59 PM","6/26/25, 3:30:48 PM",1h 30m 49s,Andrei.Ionascu@endava.com,Presenter,
+Delia Tudor,"6/26/25, 2:00:02 PM","6/26/25, 3:16:22 PM",1h 16m 19s,Delia.Tudor@endava.com,Presenter,
+Delia Tudor,"6/26/25, 3:20:51 PM","6/26/25, 3:59:30 PM",38m 39s,Delia.Tudor@endava.com,Presenter,
+Mihai Cristian Tabarcea,"6/26/25, 2:00:03 PM","6/26/25, 3:59:27 PM",1h 59m 23s,Mihai-Cristian.Tabarcea@endava.com,Presenter,
+Adrian Vasile Vladescu,"6/26/25, 2:00:05 PM","6/26/25, 4:01:36 PM",2h 1m 30s,Adrian-Vasile.Vladescu@endava.com,Presenter,
+Alexandru Toma,"6/26/25, 2:00:09 PM","6/26/25, 4:00:19 PM",2h 10s,Alexandru.Toma@endava.com,Presenter,
+Tiberiu Gabriel Suditu,"6/26/25, 2:00:09 PM","6/26/25, 3:59:50 PM",1h 59m 40s,Tiberiu-Gabriel.Suditu@endava.com,Presenter,
+Matei Micu,"6/26/25, 2:00:10 PM","6/26/25, 3:48:43 PM",1h 48m 32s,Matei-Mihai.Micu@endava.com,Presenter,
+Tudor Gabriel Pascaru,"6/26/25, 2:00:10 PM","6/26/25, 3:59:38 PM",1h 59m 27s,Tudor-Gabriel.Pascaru@endava.com,Presenter,
+Angel David Palihovici,"6/26/25, 2:00:11 PM","6/26/25, 3:28:26 PM",1h 28m 14s,Angel-David.Palihovici@endava.com,Presenter,
+Angel David Palihovici,"6/26/25, 3:32:47 PM","6/26/25, 3:32:51 PM",4s,Angel-David.Palihovici@endava.com,Presenter,
+Angel David Palihovici,"6/26/25, 3:35:27 PM","6/26/25, 3:37:55 PM",2m 27s,Angel-David.Palihovici@endava.com,Presenter,
+Vlad Badulescu,"6/26/25, 2:00:12 PM","6/26/25, 3:59:34 PM",1h 59m 21s,Vlad.Badulescu@endava.com,Presenter,
+Razvan Niculae,"6/26/25, 2:00:13 PM","6/26/25, 3:16:48 PM",1h 16m 34s,razvan.niculae@endava.com,Presenter,
+Razvan Niculae,"6/26/25, 3:26:54 PM","6/26/25, 3:59:36 PM",32m 41s,razvan.niculae@endava.com,Presenter,
+Robert Cristian,"6/26/25, 2:00:16 PM","6/26/25, 3:59:36 PM",1h 59m 19s,Robert.Cristian@endava.com,Presenter,
+Robert Cristian,"6/26/25, 4:19:54 PM","6/26/25, 4:20:06 PM",12s,Robert.Cristian@endava.com,Presenter,
+Razvan Azoitei,"6/26/25, 2:00:16 PM","6/26/25, 3:19:44 PM",1h 19m 27s,Razvan.Azoitei@endava.com,Presenter,
+Filip Craciun,"6/26/25, 2:00:17 PM","6/26/25, 3:59:22 PM",1h 59m 4s,Filip.Craciun@endava.com,Presenter,
+Andrei Vataselu,"6/26/25, 2:00:20 PM","6/26/25, 3:58:52 PM",1h 58m 32s,Andrei.Vataselu@endava.com,Presenter,
+Sabin Chirila,"6/26/25, 2:00:20 PM","6/26/25, 3:58:53 PM",1h 58m 33s,Sabin.Chirila@endava.com,Presenter,
+Bogdan Gargu,"6/26/25, 2:00:21 PM","6/26/25, 3:59:45 PM",1h 59m 24s,Bogdan.Gargu@endava.com,Presenter,
+Denis-Mihai Mateas,"6/26/25, 2:00:21 PM","6/26/25, 3:59:19 PM",1h 58m 57s,Denis-Mihai.Mateas@endava.com,Presenter,
+Rares Alexandru Iancu,"6/26/25, 2:00:24 PM","6/26/25, 3:44:56 PM",1h 44m 31s,Rares-Alexandru.Iancu@endava.com,Presenter,
+Cristiana Ioana Apastinei,"6/26/25, 2:00:24 PM","6/26/25, 3:59:00 PM",1h 58m 35s,Cristiana-Ioana.Apastinei@endava.com,Presenter,
+Andrei Margelatu,"6/26/25, 2:00:26 PM","6/26/25, 3:59:37 PM",1h 59m 10s,Andrei.Margelatu@endava.com,Presenter,
+Rares Ciprian Balan,"6/26/25, 2:00:26 PM","6/26/25, 3:49:35 PM",1h 49m 9s,Rares-Ciprian.Balan@endava.com,Presenter,
+Manuel Lazar,"6/26/25, 2:00:27 PM","6/26/25, 3:58:55 PM",1h 58m 28s,Manuel.Lazar@endava.com,Presenter,
+Fabian Iordache,"6/26/25, 2:00:28 PM","6/26/25, 3:59:38 PM",1h 59m 9s,Fabian.Iordache@endava.com,Presenter,
+Theodor Cristian Gheorghe,"6/26/25, 2:00:30 PM","6/26/25, 2:47:13 PM",46m 42s,Theodor-Cristian.Gheorghe@endava.com,Presenter,
+Theodor Cristian Gheorghe,"6/26/25, 2:52:01 PM","6/26/25, 3:59:36 PM",1h 7m 35s,Theodor-Cristian.Gheorghe@endava.com,Presenter,
+Armin Andrei Chanchian,"6/26/25, 2:00:31 PM","6/26/25, 3:59:39 PM",1h 59m 7s,Armin-Andrei.Chanchian@endava.com,Presenter,
+George Andrei Necula,"6/26/25, 2:00:34 PM","6/26/25, 3:59:43 PM",1h 59m 8s,George-Andrei.Necula@endava.com,Presenter,
+Stefan Nicolae Gheorghiu,"6/26/25, 2:00:35 PM","6/26/25, 3:07:37 PM",1h 7m 1s,Stefan-Nicolae.Gheorghiu@endava.com,Presenter,
+Stefan Nicolae Gheorghiu,"6/26/25, 3:27:04 PM","6/26/25, 3:40:49 PM",13m 45s,Stefan-Nicolae.Gheorghiu@endava.com,Presenter,
+Stefan Nicolae Gheorghiu,"6/26/25, 3:56:40 PM","6/26/25, 3:59:25 PM",2m 44s,Stefan-Nicolae.Gheorghiu@endava.com,Presenter,
+Mihai Negrea,"6/26/25, 2:00:40 PM","6/26/25, 3:58:59 PM",1h 58m 18s,Mihai.Negrea@endava.com,Presenter,
+Mihai Negrea,"6/26/25, 4:15:40 PM","6/26/25, 4:15:45 PM",4s,Mihai.Negrea@endava.com,Presenter,
+Maria Mihaela Bradea,"6/26/25, 2:00:45 PM","6/26/25, 3:58:58 PM",1h 58m 12s,Maria-Mihaela.Bradea@endava.com,Presenter,
+Ioana Alexa,"6/26/25, 2:00:47 PM","6/26/25, 3:59:43 PM",1h 58m 56s,Ioana.Alexa@endava.com,Presenter,
+Matei Tatar,"6/26/25, 2:00:48 PM","6/26/25, 3:33:31 PM",1h 32m 43s,Matei.Tatar@endava.com,Presenter,
+Matei Tatar,"6/26/25, 3:41:51 PM","6/26/25, 3:59:49 PM",17m 57s,Matei.Tatar@endava.com,Presenter,
+Octavian Paul Ilies,"6/26/25, 2:00:51 PM","6/26/25, 3:58:55 PM",1h 58m 4s,Octavian-Paul.Ilies@endava.com,Presenter,
+Adrian Matean,"6/26/25, 2:00:53 PM","6/26/25, 2:03:35 PM",2m 42s,Adrian.Matean@endava.com,Presenter,
+Mihai Maciuc,"6/26/25, 2:00:53 PM","6/26/25, 3:59:27 PM",1h 58m 34s,Mihai.Maciuc@endava.com,Presenter,
+Mariana Ionela Muntian,"6/26/25, 2:00:55 PM","6/26/25, 3:19:24 PM",1h 18m 29s,Mariana-Ionela.Muntian@endava.com,Presenter,
+Mariana Ionela Muntian,"6/26/25, 3:24:23 PM","6/26/25, 3:59:08 PM",34m 45s,Mariana-Ionela.Muntian@endava.com,Presenter,
+Felix Cosmin Orga,"6/26/25, 2:00:57 PM","6/26/25, 3:59:03 PM",1h 58m 5s,Felix-Cosmin.Orga@endava.com,Presenter,
+Silviu Mihail Pavel,"6/26/25, 2:00:58 PM","6/26/25, 3:46:20 PM",1h 45m 21s,Silviu-Mihail.Pavel@endava.com,Presenter,
+Luka Popovici,"6/26/25, 2:01:00 PM","6/26/25, 3:58:55 PM",1h 57m 55s,Luka.Popovici@endava.com,Presenter,
+Maria-Ioana Fuerea,"6/26/25, 2:01:00 PM","6/26/25, 3:58:12 PM",1h 57m 12s,Maria-Ioana.Fuerea@endava.com,Presenter,
+Alexandru Munteanu,"6/26/25, 2:01:01 PM","6/26/25, 4:02:36 PM",2h 1m 34s,Alexandru.Munteanu@endava.com,Presenter,
+Laura Andrada Ciobanu,"6/26/25, 2:01:03 PM","6/26/25, 3:46:51 PM",1h 45m 47s,Laura-Andrada.Ciobanu@endava.com,Presenter,
+Laura Andrada Ciobanu,"6/26/25, 3:58:08 PM","6/26/25, 3:59:01 PM",52s,Laura-Andrada.Ciobanu@endava.com,Presenter,
+Florin Nita,"6/26/25, 2:01:03 PM","6/26/25, 3:59:35 PM",1h 58m 31s,Florin.Nita@endava.com,Presenter,
+Ana Stefania Serbanoiu,"6/26/25, 2:01:03 PM","6/26/25, 3:59:27 PM",1h 58m 23s,Ana-Stefania.Serbanoiu@endava.com,Presenter,
+Robert-Cosmin Tudorache,"6/26/25, 2:01:12 PM","6/26/25, 3:59:09 PM",1h 57m 57s,Robert-Cosmin.Tudorache@endava.com,Presenter,
+Sabin Andrei Popa,"6/26/25, 2:01:18 PM","6/26/25, 3:44:59 PM",1h 43m 40s,Sabin-Andrei.Popa@endava.com,Presenter,
+Rares Gabriel Margarint,"6/26/25, 2:01:21 PM","6/26/25, 3:58:56 PM",1h 57m 35s,Rares-Gabriel.Margarint@endava.com,Presenter,
+Alexandru Bardasu,"6/26/25, 2:01:23 PM","6/26/25, 3:59:04 PM",1h 57m 41s,Alexandru.Bardasu@endava.com,Presenter,
+Madalina Birtu,"6/26/25, 2:01:29 PM","6/26/25, 3:59:36 PM",1h 58m 7s,Madalina.Birtu@endava.com,Presenter,
+Daniela Munteanu,"6/26/25, 2:01:29 PM","6/26/25, 3:59:23 PM",1h 57m 54s,Daniela.Munteanu@endava.com,Presenter,
+Irina Morosanu,"6/26/25, 2:01:32 PM","6/26/25, 3:59:28 PM",1h 57m 55s,Irina.Morosanu@endava.com,Presenter,
+Ioan Agape,"6/26/25, 2:01:33 PM","6/26/25, 3:59:26 PM",1h 57m 53s,Ioan.Agape@endava.com,Presenter,
+Iasmina Pagu,"6/26/25, 2:01:34 PM","6/26/25, 3:59:35 PM",1h 58m,Iasmina-Andra.Pagu@endava.com,Presenter,
+Alexandru Chelaru,"6/26/25, 2:01:34 PM","6/26/25, 3:59:28 PM",1h 57m 53s,Alexandru.Chelaru@endava.com,Presenter,
+Botond Ors Solyom,"6/26/25, 2:01:37 PM","6/26/25, 3:59:01 PM",1h 57m 23s,Botond-Ors.Solyom@endava.com,Presenter,
+Polina Ciumac,"6/26/25, 2:01:41 PM","6/26/25, 3:59:37 PM",1h 57m 56s,Polina.Ciumac@endava.com,Presenter,
+Mihnea Amihailesei,"6/26/25, 2:01:43 PM","6/26/25, 3:23:47 PM",1h 22m 3s,Mihnea.Amihailesei@endava.com,Presenter,
+Mihnea Amihailesei,"6/26/25, 3:39:17 PM","6/26/25, 3:58:22 PM",19m 5s,Mihnea.Amihailesei@endava.com,Presenter,
+Andreea Grecu,"6/26/25, 2:01:43 PM","6/26/25, 3:50:36 PM",1h 48m 52s,Andreea.Grecu2@endava.com,Presenter,
+Andreea Grecu,"6/26/25, 3:54:58 PM","6/26/25, 3:55:06 PM",7s,Andreea.Grecu2@endava.com,Presenter,
+Daniel Kewin Chifa,"6/26/25, 2:01:45 PM","6/26/25, 3:59:05 PM",1h 57m 19s,Daniel-Kewin.Chifa@endava.com,Presenter,
+Vlad-Stefan Sas,"6/26/25, 2:01:47 PM","6/26/25, 3:59:37 PM",1h 57m 50s,Vlad-Stefan.Sas@endava.com,Presenter,
+Denis Roca,"6/26/25, 2:01:47 PM","6/26/25, 3:59:02 PM",1h 57m 14s,Denis.Roca@endava.com,Presenter,
+Alexandru Dumitru Ionita,"6/26/25, 2:01:48 PM","6/26/25, 3:59:43 PM",1h 57m 54s,Alex.Ionita@endava.com,Presenter,
+Ilinca Maria Popovici,"6/26/25, 2:01:48 PM","6/26/25, 3:58:59 PM",1h 57m 10s,Ilinca-Maria.Popovici@endava.com,Presenter,
+Diandra Fechita,"6/26/25, 2:01:50 PM","6/26/25, 3:58:58 PM",1h 57m 7s,Diandra.Fechita@endava.com,Presenter,
+Adrian Visan,"6/26/25, 2:01:52 PM","6/26/25, 3:57:41 PM",1h 55m 49s,Adrian.Visan@endava.com,Presenter,
+Iuliana Raluca Butnariu,"6/26/25, 2:01:54 PM","6/26/25, 3:59:16 PM",1h 57m 22s,Iuliana-Raluca.Butnariu@endava.com,Presenter,
+Cornelia Cojocari,"6/26/25, 2:01:54 PM","6/26/25, 3:24:29 PM",1h 22m 35s,Cornelia.Cojocari@endava.com,Presenter,
+Cornelia Cojocari,"6/26/25, 3:33:46 PM","6/26/25, 3:58:25 PM",24m 39s,Cornelia.Cojocari@endava.com,Presenter,
+Sorin Cristian Miron,"6/26/25, 2:02:00 PM","6/26/25, 3:59:47 PM",1h 57m 46s,Sorin-Cristian.Miron@endava.com,Presenter,
+Tudor Leonte,"6/26/25, 2:02:04 PM","6/26/25, 3:59:23 PM",1h 57m 19s,Tudor.Leonte@endava.com,Presenter,
+Andrei Apostol,"6/26/25, 2:02:04 PM","6/26/25, 3:57:55 PM",1h 55m 51s,Andrei.Apostol@endava.com,Presenter,
+Patric Caliman,"6/26/25, 2:02:06 PM","6/26/25, 3:50:21 PM",1h 48m 14s,Patric.Caliman@endava.com,Presenter,
+Andrei Tudor Grumazescu,"6/26/25, 2:02:07 PM","6/26/25, 3:58:57 PM",1h 56m 49s,Andrei-Tudor.Grumazescu@endava.com,Presenter,
+Darius Cosmin Vararean,"6/26/25, 2:02:10 PM","6/26/25, 3:59:44 PM",1h 57m 34s,Darius-Cosmin.Vararean@endava.com,Presenter,
+Mihaly Richard Teutsch,"6/26/25, 2:02:11 PM","6/26/25, 3:59:37 PM",1h 57m 25s,Mihaly-Richard.Teutsch@endava.com,Presenter,
+Alexandru Serban,"6/26/25, 2:02:16 PM","6/26/25, 3:59:20 PM",1h 57m 3s,Alexandru.Serban2@endava.com,Presenter,
+Alexandru Cristian Grajdeanu,"6/26/25, 2:02:16 PM","6/26/25, 3:57:36 PM",1h 55m 19s,Alexandru-Cristian.Grajdeanu@endava.com,Presenter,
+Alexandru Zosin,"6/26/25, 2:02:16 PM","6/26/25, 3:59:26 PM",1h 57m 9s,Alexandru.Zosin@endava.com,Presenter,
+Raluca Roiban,"6/26/25, 2:02:22 PM","6/26/25, 3:58:39 PM",1h 56m 17s,Raluca.Roiban@endava.com,Presenter,
+Anca Vasilica Iacob,"6/26/25, 2:02:26 PM","6/26/25, 3:58:57 PM",1h 56m 30s,Anca-Vasilica.Iacob@endava.com,Presenter,
+Csilla Boglarka Nagy,"6/26/25, 2:02:28 PM","6/26/25, 3:59:23 PM",1h 56m 55s,Csilla-Boglarka.Nagy@endava.com,Presenter,
+Serafim Uliuliuc,"6/26/25, 2:02:31 PM","6/26/25, 3:59:00 PM",1h 56m 29s,Serafim.Uliuliuc@endava.com,Presenter,
+Denisa Lutic,"6/26/25, 2:02:32 PM","6/26/25, 3:59:21 PM",1h 56m 49s,Denisa.Lutic@endava.com,Presenter,
+Denisa Ibanescu,"6/26/25, 2:02:34 PM","6/26/25, 3:59:25 PM",1h 56m 50s,Denisa.Ibanescu@endava.com,Presenter,
+Stefania Diana Stirbu,"6/26/25, 2:02:39 PM","6/26/25, 3:59:27 PM",1h 56m 48s,Stefania-Diana.Stirbu@endava.com,Presenter,
+Liviu Istrate,"6/26/25, 2:02:39 PM","6/26/25, 3:59:31 PM",1h 56m 52s,Liviu.Istrate2@endava.com,Presenter,
+Madalina Puia,"6/26/25, 2:02:42 PM","6/26/25, 3:59:42 PM",1h 57m,Madalina.Puia@endava.com,Presenter,
+Andreea Cacenschi,"6/26/25, 2:02:43 PM","6/26/25, 3:31:11 PM",1h 28m 27s,Andreea.Cacenschi@endava.com,Presenter,
+Aron Domokos Telegdy,"6/26/25, 2:02:47 PM","6/26/25, 3:59:01 PM",1h 56m 14s,Aron.Telegdy@endava.com,Presenter,
+Radu Branici,"6/26/25, 2:02:47 PM","6/26/25, 3:59:24 PM",1h 56m 37s,Radu.Branici@endava.com,Presenter,
+Alexandru Gabriel Cazan,"6/26/25, 2:02:49 PM","6/26/25, 4:00:14 PM",1h 57m 24s,Alexandru.Cazan@endava.com,Presenter,
+Victor Valentin Vladulescu,"6/26/25, 2:02:53 PM","6/26/25, 3:16:59 PM",1h 14m 6s,Victor-Valentin.Vladulescu@endava.com,Presenter,
+Victor Valentin Vladulescu,"6/26/25, 3:28:48 PM","6/26/25, 3:41:05 PM",12m 16s,Victor-Valentin.Vladulescu@endava.com,Presenter,
+Vlad Cojocaru,"6/26/25, 2:02:53 PM","6/26/25, 3:59:50 PM",1h 56m 57s,Vlad.Cojocaru@endava.com,Presenter,
+Mihai Alexandru Militaru,"6/26/25, 2:02:57 PM","6/26/25, 2:46:23 PM",43m 25s,Mihai-Alexandru.Militaru@endava.com,Presenter,
+Alexandru Edves,"6/26/25, 2:02:58 PM","6/26/25, 3:56:02 PM",1h 53m 3s,Alexandru.Edves@endava.com,Presenter,
+Denisa Maria Gorea,"6/26/25, 2:03:04 PM","6/26/25, 3:35:08 PM",1h 32m 3s,Denisa-Maria.Gorea@endava.com,Presenter,
+George Eduard Achiriloaei,"6/26/25, 2:03:04 PM","6/26/25, 3:58:17 PM",1h 55m 13s,George-Eduard.Achiriloaei@endava.com,Presenter,
+Madalina Demian,"6/26/25, 2:03:14 PM","6/26/25, 3:59:06 PM",1h 55m 52s,Madalina.Demian@endava.com,Presenter,
+Ioana Victoria Zinveliu,"6/26/25, 2:03:23 PM","6/26/25, 3:58:51 PM",1h 55m 28s,Ioana-Victoria.Zinveliu@endava.com,Presenter,
+Huba Nemet,"6/26/25, 2:03:30 PM","6/26/25, 3:59:34 PM",1h 56m 3s,Huba.Nemet@endava.com,Presenter,
+Andrei Titus Pavel,"6/26/25, 2:03:35 PM","6/26/25, 3:59:04 PM",1h 55m 28s,andrei-titus.pavel@endava.com,Presenter,
+Andrada Maria Tinta,"6/26/25, 2:03:43 PM","6/26/25, 3:58:53 PM",1h 55m 10s,Andrada-Maria.Tinta@endava.com,Presenter,
+Stefan Cotos,"6/26/25, 2:04:04 PM","6/26/25, 3:59:24 PM",1h 55m 19s,Stefan.Cotos@endava.com,Presenter,
+Mihnea Daniel Popescu,"6/26/25, 2:04:14 PM","6/26/25, 3:57:20 PM",1h 53m 6s,Mihnea-Daniel.Popescu@endava.com,Presenter,
+Celia Ciurchil-Giurgiu,"6/26/25, 2:04:20 PM","6/26/25, 3:59:36 PM",1h 55m 15s,Celia.Ciurchil@endava.com,Presenter,
+Daria Craciun,"6/26/25, 2:04:22 PM","6/26/25, 3:58:52 PM",1h 54m 30s,Daria.Craciun@endava.com,Presenter,
+Raul Birsan,"6/26/25, 2:04:36 PM","6/26/25, 2:06:40 PM",2m 3s,Raul.Birsan@endava.com,Presenter,
+Raul Birsan,"6/26/25, 2:20:39 PM","6/26/25, 3:59:32 PM",1h 38m 52s,Raul.Birsan@endava.com,Presenter,
+George Nicolae Botos,"6/26/25, 2:04:57 PM","6/26/25, 3:50:22 PM",1h 45m 25s,George-Nicolae.Botos@endava.com,Presenter,
+Marius Beschieru,"6/26/25, 2:05:27 PM","6/26/25, 3:16:16 PM",1h 10m 48s,Marius.Beschieru@endava.com,Presenter,
+Marius Beschieru,"6/26/25, 3:25:52 PM","6/26/25, 3:59:23 PM",33m 31s,Marius.Beschieru@endava.com,Presenter,
+Adina Gheorghevici,"6/26/25, 2:05:29 PM","6/26/25, 2:41:31 PM",36m 2s,Adina.Gheorghevici@endava.com,Presenter,
+Catalin Festeu,"6/26/25, 2:05:31 PM","6/26/25, 3:31:29 PM",1h 25m 57s,Catalin.Festeu@endava.com,Presenter,
+Catalin Festeu,"6/26/25, 3:32:52 PM","6/26/25, 3:52:02 PM",19m 9s,Catalin.Festeu@endava.com,Presenter,
+Ioana Alexia Popa,"6/26/25, 2:05:34 PM","6/26/25, 3:59:54 PM",1h 54m 20s,Ioana-Alexia.Popa@endava.com,Presenter,
+Catalin Ursu,"6/26/25, 2:06:06 PM","6/26/25, 3:41:57 PM",1h 35m 50s,Catalin.Ursu@endava.com,Presenter,
+Bianca Popescu,"6/26/25, 2:06:35 PM","6/26/25, 3:36:47 PM",1h 30m 11s,Bianca.Popescu@endava.com,Presenter,
+Alexandru Lazar,"6/26/25, 2:07:20 PM","6/26/25, 3:51:16 PM",1h 43m 55s,Alexandru.Lazar@endava.com,Presenter,
+Maria Iulia Zdrenghea,"6/26/25, 2:07:58 PM","6/26/25, 3:58:58 PM",1h 51m,Maria-Iulia.Zdrenghea@endava.com,Presenter,
+Rares Agachi,"6/26/25, 2:11:19 PM","6/26/25, 2:52:00 PM",40m 40s,Rares.Agachi@endava.com,Presenter,
+Alin Avram,"6/26/25, 2:12:57 PM","6/26/25, 3:23:14 PM",1h 10m 16s,Alin.Avram@endava.com,Presenter,
+Stefan Gabriel Verde,"6/26/25, 2:18:45 PM","6/26/25, 2:19:44 PM",58s,Stefan-Gabriel.Verde@endava.com,Presenter,
+Stefan Gabriel Verde,"6/26/25, 2:21:40 PM","6/26/25, 3:20:36 PM",58m 55s,Stefan-Gabriel.Verde@endava.com,Presenter,
+Laura Rusanescu,"6/26/25, 2:33:43 PM","6/26/25, 3:58:56 PM",1h 25m 12s,Laura.Rusanescu@endava.com,Presenter,
+Cosmin Chirazi,"6/26/25, 2:35:27 PM","6/26/25, 3:15:52 PM",40m 24s,Cosmin.Chirazi@endava.com,Presenter,
+Stefan Stescu,"6/26/25, 2:50:10 PM","6/26/25, 3:59:19 PM",1h 9m 9s,Stefan.Stescu@endava.com,Presenter,
+Cosmin Adrian Neamtiu,"6/26/25, 3:03:02 PM","6/26/25, 3:24:23 PM",21m 21s,Cosmin-Adrian.Neamtiu@endava.com,Presenter,

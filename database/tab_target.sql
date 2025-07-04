@@ -1,12 +1,4 @@
---crearea utiliztorului care sa testeze sistemul
-CREATE USER davax_viewer IDENTIFIED BY "Timesheet2025!"
-DEFAULT TABLESPACE users
-TEMPORARY TABLESPACE temp;
-
-GRANT CREATE SESSION TO davax_viewer;
-
 ------------------------------------------------TARGET TABLES
-
 -------CREARE TABEL LOCATION
 
 CREATE TABLE location (
@@ -150,8 +142,8 @@ WHERE city = 'Brasov';
 
  ----------TAB EMPLOYEES
 
---pentru tabelul employees datele au fost importate manual din fisierul Book1.csv, insa tabelul 
---necesita ca si coloanele de manager_id si location_id sa fie legate de tabelele corespunzatoare
+--datele pentru tabelul employees au fost importate din fisierul Book1.csv prin
+--intermediul scriptului populate_table.py localizat \python\employees\populate_table.py
 
 UPDATE employees e
 SET manager_id = (
@@ -183,5 +175,3 @@ INSERT INTO employees_archive(
     SYSDATE as modification_date
 FROM employees e
 WHERE e.is_active = 'Y';
-
-
